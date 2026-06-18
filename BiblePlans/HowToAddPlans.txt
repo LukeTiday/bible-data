@@ -1,0 +1,324 @@
+Here’s the tightened plaintext version.
+
+CUSTOM PLAN FORMAT GUIDE
+
+This app uses Markdown files for devotional plans.
+
+Each plan file is imported into the backend database with:
+
+python import_plan.py
+
+The app does not read plan Markdown directly at runtime. The Markdown is only the authoring format.
+
+============================================================
+
+1. PLAN FILE LOCATION
+   ============================================================
+
+For Railway deployment, each plan file must exist here:
+
+backend/plans/
+
+Example:
+
+backend/plans/abide-in-christ.md
+
+Plan files should use the .md extension.
+
+============================================================
+2. BASIC PLAN STRUCTURE
+=======================
+
+Every plan has:
+
+1. frontmatter metadata
+2. one or more days
+3. ordered step blocks inside each day
+
+Example:
+
+---
+
+title: Abide in Christ
+slug: abide-in-christ
+description: A simple devotional plan about remaining in Jesus.
+image_url:
+----------
+
+# Day 1: The Vine
+
+Jesus invites us to remain in Him, not as a vague idea, but as the source of our daily life.
+::
+
+John 15:1-11
+::
+
+Where do you need to remain in Christ today?
+::
+
+Take a few quiet minutes to ask God to teach you what abiding looks like today.
+::
+
+============================================================
+3. FRONTMATTER
+==============
+
+The top of every file must look like this:
+
+---
+
+title: Plan Title
+slug: plan-slug
+description: Short plan description.
+image_url:
+----------
+
+Required:
+
+title
+slug
+description
+
+Optional:
+
+image_url
+
+Slug rules:
+
+* use lowercase
+* use hyphens between words
+* do not use spaces
+* do not duplicate another plan’s slug
+
+Good:
+
+walking-in-wisdom
+
+Bad:
+
+Walking In Wisdom
+walking_in_wisdom
+walking in wisdom
+
+============================================================
+4. DAY FORMAT
+=============
+
+Each day starts with:
+
+# Day NUMBER: Title
+
+Examples:
+
+# Day 1: The Vine
+
+# Day 2: The Branches
+
+# Day 3: Remaining in Love
+
+Keep day numbers in order.
+
+============================================================
+5. STEP FORMAT
+==============
+
+Each step uses this format:
+
+Content goes here.
+::
+
+Current common step types:
+
+devotional
+scripture
+reflection
+closer
+
+The order of steps in the Markdown file is the order they appear in the app.
+
+============================================================
+6. DEVOTIONAL STEPS
+===================
+
+Use devotional for main reading content.
+
+Example:
+
+Trust is not vague optimism. Biblical trust begins with hearing what God has said and taking Him seriously.
+
+We often want clarity before obedience. But Scripture repeatedly shows us that trust grows as we walk with God.
+::
+
+Markdown formatting is allowed:
+
+**bold text**
+
+*italic text*
+
+> blockquote text
+
+* list item
+* list item
+
+============================================================
+7. SCRIPTURE STEPS
+==================
+
+Use scripture for Bible references.
+
+Example:
+
+John 15:1-11
+::
+
+The app stores only the reference. Scripture text is fetched through the backend from YouVersion.
+
+Currently supported examples:
+
+John 3:16
+John 15:1-11
+Matthew 6:5-8
+Psalm 90:12
+Ephesians 5:15-17
+1 John 1:5-7
+
+Use this format:
+
+Book Chapter:Verse
+
+or:
+
+Book Chapter:StartVerse-EndVerse
+
+Avoid multi-chapter references for now, such as:
+
+John 15:26-16:4
+
+============================================================
+8. REFLECTION STEPS
+===================
+
+Use reflection for questions or prompts.
+
+Example:
+
+Where are you tempted to rely on yourself instead of remaining in Christ?
+::
+
+============================================================
+9. CLOSER STEPS
+===============
+
+Use closer for the final prompt, prayer direction, or closing thought.
+
+Example:
+
+Ask God to show you one area today where He is inviting you to depend on Him.
+::
+
+============================================================
+10. FULL MINI EXAMPLE
+=====================
+
+---
+
+title: Trusting God Daily
+slug: trusting-god-daily
+description: A short devotional plan about trusting God in ordinary life.
+image_url:
+----------
+
+# Day 1: Trust Begins with Listening
+
+Trust is not vague optimism. Biblical trust begins with hearing what God has said and taking Him seriously.
+::
+
+Proverbs 3:5-6
+::
+
+Where are you waiting for total certainty before taking a faithful next step?
+::
+
+Ask God to help you trust Him with one specific decision today.
+::
+
+# Day 2: Do Not Be Anxious
+
+Jesus does not minimize our needs. He reminds us that the Father knows them.
+::
+
+Matthew 6:25-34
+::
+
+What worry has been taking up the most space in your mind lately?
+::
+
+Name that worry honestly before God, then ask Him to help you seek His kingdom today.
+::
+
+============================================================
+11. ADDING A PLAN LOCALLY
+=========================
+
+1. Create the Markdown file:
+
+backend/plans/my-plan-slug.md
+
+2. Run the importer:
+
+cd C:\GitRepos\devotional-app\backend
+.venv\Scripts\activate
+python import_plan.py
+
+3. Check the plan locally:
+
+[http://127.0.0.1:8000/plans](http://127.0.0.1:8000/plans)
+
+or:
+
+[http://127.0.0.1:8000/plans/my-plan-slug](http://127.0.0.1:8000/plans/my-plan-slug)
+
+============================================================
+12. ADDING A PLAN TO RAILWAY
+============================
+
+1. Make sure the plan file is inside:
+
+backend/plans/
+
+2. Commit and push:
+
+cd C:\GitRepos\devotional-app
+git add .
+git commit -m "Add new devotional plan"
+git push
+
+3. Wait for Railway to redeploy the backend.
+
+4. Open the Railway backend shell.
+
+5. Run:
+
+python import_plan.py
+
+6. Confirm the plan appears:
+
+[https://YOUR-BACKEND-DOMAIN.up.railway.app/plans](https://YOUR-BACKEND-DOMAIN.up.railway.app/plans)
+
+7. Open the frontend and confirm the plan appears in the library.
+
+============================================================
+13. QUICK CHECKLIST
+===================
+
+Before importing a plan, check:
+
+* file is in backend/plans/
+* file ends in .md
+* frontmatter has title, slug, and description
+* slug is unique
+* each day uses # Day NUMBER: Title
+* each step opens with ::step_type
+* each step closes with ::
+* scripture references use normal single-chapter format
+* python import_plan.py runs successfully
