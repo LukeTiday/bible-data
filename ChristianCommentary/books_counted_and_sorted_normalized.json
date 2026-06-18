@@ -1,0 +1,464 @@
+[
+    {
+        "book": "Romans",
+        "count": 3139,
+        "total_verses": 433,
+        "references_per_verse": 7.249422632794457,
+        "bible_order": 44
+    },
+    {
+        "book": "John",
+        "count": 5753,
+        "total_verses": 879,
+        "references_per_verse": 6.544937428896473,
+        "bible_order": 42
+    },
+    {
+        "book": "Galatians",
+        "count": 958,
+        "total_verses": 149,
+        "references_per_verse": 6.429530201342282,
+        "bible_order": 47
+    },
+    {
+        "book": "1 Timothy",
+        "count": 710,
+        "total_verses": 113,
+        "references_per_verse": 6.283185840707965,
+        "bible_order": 53
+    },
+    {
+        "book": "Ephesians",
+        "count": 921,
+        "total_verses": 155,
+        "references_per_verse": 5.941935483870968,
+        "bible_order": 48
+    },
+    {
+        "book": "Matthew",
+        "count": 6358,
+        "total_verses": 1071,
+        "references_per_verse": 5.936507936507937,
+        "bible_order": 39
+    },
+    {
+        "book": "1 John",
+        "count": 616,
+        "total_verses": 105,
+        "references_per_verse": 5.866666666666666,
+        "bible_order": 61
+    },
+    {
+        "book": "1 Corinthians",
+        "count": 2468,
+        "total_verses": 437,
+        "references_per_verse": 5.647597254004577,
+        "bible_order": 45
+    },
+    {
+        "book": "1 Peter",
+        "count": 565,
+        "total_verses": 105,
+        "references_per_verse": 5.380952380952381,
+        "bible_order": 59
+    },
+    {
+        "book": "Philippians",
+        "count": 548,
+        "total_verses": 104,
+        "references_per_verse": 5.269230769230769,
+        "bible_order": 49
+    },
+    {
+        "book": "Philemon",
+        "count": 131,
+        "total_verses": 25,
+        "references_per_verse": 5.24,
+        "bible_order": 56
+    },
+    {
+        "book": "2 Timothy",
+        "count": 418,
+        "total_verses": 83,
+        "references_per_verse": 5.036144578313253,
+        "bible_order": 54
+    },
+    {
+        "book": "2 Thessalonians",
+        "count": 234,
+        "total_verses": 47,
+        "references_per_verse": 4.9787234042553195,
+        "bible_order": 52
+    },
+    {
+        "book": "Revelation",
+        "count": 2008,
+        "total_verses": 404,
+        "references_per_verse": 4.97029702970297,
+        "bible_order": 65
+    },
+    {
+        "book": "2 Corinthians",
+        "count": 1204,
+        "total_verses": 257,
+        "references_per_verse": 4.684824902723736,
+        "bible_order": 46
+    },
+    {
+        "book": "Titus",
+        "count": 212,
+        "total_verses": 46,
+        "references_per_verse": 4.608695652173913,
+        "bible_order": 55
+    },
+    {
+        "book": "Luke",
+        "count": 5219,
+        "total_verses": 1151,
+        "references_per_verse": 4.534317984361425,
+        "bible_order": 41
+    },
+    {
+        "book": "Jude",
+        "count": 113,
+        "total_verses": 25,
+        "references_per_verse": 4.52,
+        "bible_order": 64
+    },
+    {
+        "book": "Colossians",
+        "count": 395,
+        "total_verses": 95,
+        "references_per_verse": 4.157894736842105,
+        "bible_order": 50
+    },
+    {
+        "book": "2 Peter",
+        "count": 246,
+        "total_verses": 61,
+        "references_per_verse": 4.032786885245901,
+        "bible_order": 60
+    },
+    {
+        "book": "Hebrews",
+        "count": 1153,
+        "total_verses": 303,
+        "references_per_verse": 3.8052805280528053,
+        "bible_order": 57
+    },
+    {
+        "book": "2 John",
+        "count": 48,
+        "total_verses": 13,
+        "references_per_verse": 3.6923076923076925,
+        "bible_order": 62
+    },
+    {
+        "book": "James",
+        "count": 382,
+        "total_verses": 108,
+        "references_per_verse": 3.537037037037037,
+        "bible_order": 58
+    },
+    {
+        "book": "Song of Solomon",
+        "count": 404,
+        "total_verses": 117,
+        "references_per_verse": 3.452991452991453,
+        "bible_order": 21
+    },
+    {
+        "book": "1 Thessalonians",
+        "count": 295,
+        "total_verses": 89,
+        "references_per_verse": 3.3146067415730336,
+        "bible_order": 51
+    },
+    {
+        "book": "Jonah",
+        "count": 155,
+        "total_verses": 48,
+        "references_per_verse": 3.2291666666666665,
+        "bible_order": 31
+    },
+    {
+        "book": "Mark",
+        "count": 2030,
+        "total_verses": 678,
+        "references_per_verse": 2.994100294985251,
+        "bible_order": 40
+    },
+    {
+        "book": "Ecclesiastes",
+        "count": 558,
+        "total_verses": 222,
+        "references_per_verse": 2.5135135135135136,
+        "bible_order": 20
+    },
+    {
+        "book": "Habakkuk",
+        "count": 136,
+        "total_verses": 56,
+        "references_per_verse": 2.4285714285714284,
+        "bible_order": 34
+    },
+    {
+        "book": "3 John",
+        "count": 33,
+        "total_verses": 14,
+        "references_per_verse": 2.357142857142857,
+        "bible_order": 63
+    },
+    {
+        "book": "Daniel",
+        "count": 796,
+        "total_verses": 357,
+        "references_per_verse": 2.2296918767507004,
+        "bible_order": 26
+    },
+    {
+        "book": "Isaiah",
+        "count": 2652,
+        "total_verses": 1292,
+        "references_per_verse": 2.0526315789473686,
+        "bible_order": 22
+    },
+    {
+        "book": "Obadiah",
+        "count": 43,
+        "total_verses": 21,
+        "references_per_verse": 2.0476190476190474,
+        "bible_order": 30
+    },
+    {
+        "book": "Malachi",
+        "count": 112,
+        "total_verses": 55,
+        "references_per_verse": 2.036363636363636,
+        "bible_order": 38
+    },
+    {
+        "book": "Psalms",
+        "count": 4721,
+        "total_verses": 2461,
+        "references_per_verse": 1.9183258837870785,
+        "bible_order": 18
+    },
+    {
+        "book": "Hosea",
+        "count": 314,
+        "total_verses": 197,
+        "references_per_verse": 1.5939086294416243,
+        "bible_order": 27
+    },
+    {
+        "book": "Acts",
+        "count": 1582,
+        "total_verses": 1007,
+        "references_per_verse": 1.571002979145978,
+        "bible_order": 43
+    },
+    {
+        "book": "Proverbs",
+        "count": 1379,
+        "total_verses": 915,
+        "references_per_verse": 1.507103825136612,
+        "bible_order": 19
+    },
+    {
+        "book": "Job",
+        "count": 1609,
+        "total_verses": 1070,
+        "references_per_verse": 1.5037383177570094,
+        "bible_order": 17
+    },
+    {
+        "book": "Genesis",
+        "count": 2270,
+        "total_verses": 1533,
+        "references_per_verse": 1.4807566862361383,
+        "bible_order": 0
+    },
+    {
+        "book": "Joel",
+        "count": 104,
+        "total_verses": 73,
+        "references_per_verse": 1.4246575342465753,
+        "bible_order": 28
+    },
+    {
+        "book": "Micah",
+        "count": 141,
+        "total_verses": 105,
+        "references_per_verse": 1.3428571428571427,
+        "bible_order": 32
+    },
+    {
+        "book": "Zechariah",
+        "count": 266,
+        "total_verses": 211,
+        "references_per_verse": 1.2606635071090047,
+        "bible_order": 37
+    },
+    {
+        "book": "Amos",
+        "count": 184,
+        "total_verses": 146,
+        "references_per_verse": 1.2602739726027397,
+        "bible_order": 29
+    },
+    {
+        "book": "Lamentations",
+        "count": 185,
+        "total_verses": 154,
+        "references_per_verse": 1.2012987012987013,
+        "bible_order": 24
+    },
+    {
+        "book": "Nahum",
+        "count": 56,
+        "total_verses": 47,
+        "references_per_verse": 1.1914893617021276,
+        "bible_order": 33
+    },
+    {
+        "book": "Haggai",
+        "count": 45,
+        "total_verses": 38,
+        "references_per_verse": 1.1842105263157894,
+        "bible_order": 36
+    },
+    {
+        "book": "1 Samuel",
+        "count": 941,
+        "total_verses": 810,
+        "references_per_verse": 1.1617283950617283,
+        "bible_order": 8
+    },
+    {
+        "book": "Zephaniah",
+        "count": 54,
+        "total_verses": 53,
+        "references_per_verse": 1.0188679245283019,
+        "bible_order": 35
+    },
+    {
+        "book": "Ezekiel",
+        "count": 1125,
+        "total_verses": 1273,
+        "references_per_verse": 0.8837391987431265,
+        "bible_order": 25
+    },
+    {
+        "book": "Jeremiah",
+        "count": 1168,
+        "total_verses": 1364,
+        "references_per_verse": 0.8563049853372434,
+        "bible_order": 23
+    },
+    {
+        "book": "Esther",
+        "count": 100,
+        "total_verses": 167,
+        "references_per_verse": 0.5988023952095808,
+        "bible_order": 16
+    },
+    {
+        "book": "Ezra",
+        "count": 167,
+        "total_verses": 280,
+        "references_per_verse": 0.5964285714285714,
+        "bible_order": 14
+    },
+    {
+        "book": "Exodus",
+        "count": 626,
+        "total_verses": 1213,
+        "references_per_verse": 0.516075845012366,
+        "bible_order": 1
+    },
+    {
+        "book": "Joshua",
+        "count": 260,
+        "total_verses": 658,
+        "references_per_verse": 0.3951367781155015,
+        "bible_order": 5
+    },
+    {
+        "book": "Nehemiah",
+        "count": 157,
+        "total_verses": 406,
+        "references_per_verse": 0.3866995073891626,
+        "bible_order": 15
+    },
+    {
+        "book": "1 Kings",
+        "count": 315,
+        "total_verses": 816,
+        "references_per_verse": 0.3860294117647059,
+        "bible_order": 10
+    },
+    {
+        "book": "Judges",
+        "count": 211,
+        "total_verses": 618,
+        "references_per_verse": 0.3414239482200647,
+        "bible_order": 6
+    },
+    {
+        "book": "Ruth",
+        "count": 27,
+        "total_verses": 85,
+        "references_per_verse": 0.3176470588235294,
+        "bible_order": 7
+    },
+    {
+        "book": "Deuteronomy",
+        "count": 277,
+        "total_verses": 959,
+        "references_per_verse": 0.28884254431699685,
+        "bible_order": 4
+    },
+    {
+        "book": "2 Kings",
+        "count": 191,
+        "total_verses": 719,
+        "references_per_verse": 0.26564673157162727,
+        "bible_order": 11
+    },
+    {
+        "book": "2 Samuel",
+        "count": 163,
+        "total_verses": 695,
+        "references_per_verse": 0.23453237410071942,
+        "bible_order": 9
+    },
+    {
+        "book": "Numbers",
+        "count": 231,
+        "total_verses": 1288,
+        "references_per_verse": 0.1793478260869565,
+        "bible_order": 3
+    },
+    {
+        "book": "Leviticus",
+        "count": 154,
+        "total_verses": 859,
+        "references_per_verse": 0.17927823050058206,
+        "bible_order": 2
+    },
+    {
+        "book": "1 Chronicles",
+        "count": 82,
+        "total_verses": 942,
+        "references_per_verse": 0.0870488322717622,
+        "bible_order": 12
+    },
+    {
+        "book": "2 Chronicles",
+        "count": 49,
+        "total_verses": 822,
+        "references_per_verse": 0.05961070559610705,
+        "bible_order": 13
+    }
+]

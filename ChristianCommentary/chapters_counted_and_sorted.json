@@ -1,0 +1,4678 @@
+[
+    {
+        "chapter": "John 1",
+        "count": 652
+    },
+    {
+        "chapter": "Matthew 5",
+        "count": 536
+    },
+    {
+        "chapter": "1 Corinthians 15",
+        "count": 471
+    },
+    {
+        "chapter": "Luke 1",
+        "count": 451
+    },
+    {
+        "chapter": "Matthew 26",
+        "count": 418
+    },
+    {
+        "chapter": "John 8",
+        "count": 406
+    },
+    {
+        "chapter": "Romans 8",
+        "count": 392
+    },
+    {
+        "chapter": "Matthew 6",
+        "count": 369
+    },
+    {
+        "chapter": "John 6",
+        "count": 366
+    },
+    {
+        "chapter": "Genesis 1",
+        "count": 326
+    },
+    {
+        "chapter": "Luke 12",
+        "count": 324
+    },
+    {
+        "chapter": "John 4",
+        "count": 320
+    },
+    {
+        "chapter": "Luke 6",
+        "count": 317
+    },
+    {
+        "chapter": "John 14",
+        "count": 314
+    },
+    {
+        "chapter": "John 3",
+        "count": 309
+    },
+    {
+        "chapter": "Matthew 27",
+        "count": 306
+    },
+    {
+        "chapter": "Romans 1",
+        "count": 305
+    },
+    {
+        "chapter": "John 5",
+        "count": 302
+    },
+    {
+        "chapter": "Matthew 13",
+        "count": 300
+    },
+    {
+        "chapter": "Matthew 10",
+        "count": 296
+    },
+    {
+        "chapter": "Luke 22",
+        "count": 292
+    },
+    {
+        "chapter": "Matthew 12",
+        "count": 283
+    },
+    {
+        "chapter": "John 11",
+        "count": 279
+    },
+    {
+        "chapter": "Luke 2",
+        "count": 279
+    },
+    {
+        "chapter": "John 19",
+        "count": 274
+    },
+    {
+        "chapter": "Luke 11",
+        "count": 269
+    },
+    {
+        "chapter": "Luke 9",
+        "count": 266
+    },
+    {
+        "chapter": "Luke 10",
+        "count": 265
+    },
+    {
+        "chapter": "John 12",
+        "count": 256
+    },
+    {
+        "chapter": "Matthew 24",
+        "count": 255
+    },
+    {
+        "chapter": "John 10",
+        "count": 249
+    },
+    {
+        "chapter": "Ephesians 4",
+        "count": 249
+    },
+    {
+        "chapter": "John 13",
+        "count": 247
+    },
+    {
+        "chapter": "John 16",
+        "count": 232
+    },
+    {
+        "chapter": "Luke 8",
+        "count": 230
+    },
+    {
+        "chapter": "Philippians 2",
+        "count": 228
+    },
+    {
+        "chapter": "John 17",
+        "count": 227
+    },
+    {
+        "chapter": "Matthew 1",
+        "count": 227
+    },
+    {
+        "chapter": "John 20",
+        "count": 223
+    },
+    {
+        "chapter": "Psalms 119",
+        "count": 223
+    },
+    {
+        "chapter": "1 Corinthians 7",
+        "count": 220
+    },
+    {
+        "chapter": "Romans 7",
+        "count": 219
+    },
+    {
+        "chapter": "Matthew 9",
+        "count": 217
+    },
+    {
+        "chapter": "Romans 11",
+        "count": 217
+    },
+    {
+        "chapter": "John 7",
+        "count": 216
+    },
+    {
+        "chapter": "John 18",
+        "count": 214
+    },
+    {
+        "chapter": "Luke 23",
+        "count": 213
+    },
+    {
+        "chapter": "Matthew 8",
+        "count": 213
+    },
+    {
+        "chapter": "Romans 2",
+        "count": 205
+    },
+    {
+        "chapter": "Matthew 19",
+        "count": 205
+    },
+    {
+        "chapter": "John 15",
+        "count": 202
+    },
+    {
+        "chapter": "Matthew 11",
+        "count": 201
+    },
+    {
+        "chapter": "Romans 9",
+        "count": 201
+    },
+    {
+        "chapter": "Mark 14",
+        "count": 200
+    },
+    {
+        "chapter": "1 Corinthians 11",
+        "count": 199
+    },
+    {
+        "chapter": "Genesis 2",
+        "count": 195
+    },
+    {
+        "chapter": "Mark 1",
+        "count": 193
+    },
+    {
+        "chapter": "Matthew 7",
+        "count": 193
+    },
+    {
+        "chapter": "Matthew 23",
+        "count": 193
+    },
+    {
+        "chapter": "Romans 6",
+        "count": 192
+    },
+    {
+        "chapter": "Luke 4",
+        "count": 191
+    },
+    {
+        "chapter": "Matthew 3",
+        "count": 191
+    },
+    {
+        "chapter": "Luke 3",
+        "count": 190
+    },
+    {
+        "chapter": "Luke 7",
+        "count": 189
+    },
+    {
+        "chapter": "1 John 2",
+        "count": 188
+    },
+    {
+        "chapter": "Matthew 18",
+        "count": 188
+    },
+    {
+        "chapter": "Romans 12",
+        "count": 186
+    },
+    {
+        "chapter": "Luke 24",
+        "count": 184
+    },
+    {
+        "chapter": "Matthew 22",
+        "count": 184
+    },
+    {
+        "chapter": "Matthew 15",
+        "count": 184
+    },
+    {
+        "chapter": "Romans 5",
+        "count": 182
+    },
+    {
+        "chapter": "1 Corinthians 1",
+        "count": 180
+    },
+    {
+        "chapter": "Romans 3",
+        "count": 179
+    },
+    {
+        "chapter": "Galatians 5",
+        "count": 179
+    },
+    {
+        "chapter": "John 9",
+        "count": 178
+    },
+    {
+        "chapter": "Galatians 4",
+        "count": 178
+    },
+    {
+        "chapter": "Matthew 2",
+        "count": 178
+    },
+    {
+        "chapter": "Ephesians 5",
+        "count": 177
+    },
+    {
+        "chapter": "Matthew 4",
+        "count": 177
+    },
+    {
+        "chapter": "1 Corinthians 10",
+        "count": 176
+    },
+    {
+        "chapter": "Luke 18",
+        "count": 176
+    },
+    {
+        "chapter": "Revelation 1",
+        "count": 175
+    },
+    {
+        "chapter": "Matthew 14",
+        "count": 175
+    },
+    {
+        "chapter": "Genesis 3",
+        "count": 174
+    },
+    {
+        "chapter": "Matthew 17",
+        "count": 174
+    },
+    {
+        "chapter": "Hebrews 11",
+        "count": 171
+    },
+    {
+        "chapter": "Luke 16",
+        "count": 171
+    },
+    {
+        "chapter": "Mark 10",
+        "count": 171
+    },
+    {
+        "chapter": "Revelation 20",
+        "count": 171
+    },
+    {
+        "chapter": "Luke 19",
+        "count": 169
+    },
+    {
+        "chapter": "Galatians 1",
+        "count": 168
+    },
+    {
+        "chapter": "Matthew 25",
+        "count": 168
+    },
+    {
+        "chapter": "Luke 17",
+        "count": 167
+    },
+    {
+        "chapter": "Matthew 21",
+        "count": 166
+    },
+    {
+        "chapter": "John 2",
+        "count": 165
+    },
+    {
+        "chapter": "Mark 6",
+        "count": 164
+    },
+    {
+        "chapter": "Revelation 21",
+        "count": 164
+    },
+    {
+        "chapter": "2 Timothy 2",
+        "count": 161
+    },
+    {
+        "chapter": "2 Corinthians 5",
+        "count": 161
+    },
+    {
+        "chapter": "Galatians 3",
+        "count": 161
+    },
+    {
+        "chapter": "Acts 2",
+        "count": 160
+    },
+    {
+        "chapter": "Luke 21",
+        "count": 159
+    },
+    {
+        "chapter": "Mark 9",
+        "count": 159
+    },
+    {
+        "chapter": "Romans 14",
+        "count": 155
+    },
+    {
+        "chapter": "Galatians 2",
+        "count": 154
+    },
+    {
+        "chapter": "Luke 15",
+        "count": 152
+    },
+    {
+        "chapter": "Romans 15",
+        "count": 152
+    },
+    {
+        "chapter": "1 Corinthians 12",
+        "count": 151
+    },
+    {
+        "chapter": "Matthew 16",
+        "count": 151
+    },
+    {
+        "chapter": "1 Timothy 6",
+        "count": 150
+    },
+    {
+        "chapter": "Colossians 1",
+        "count": 150
+    },
+    {
+        "chapter": "Isaiah 1",
+        "count": 146
+    },
+    {
+        "chapter": "Luke 5",
+        "count": 146
+    },
+    {
+        "chapter": "1 Peter 2",
+        "count": 146
+    },
+    {
+        "chapter": "1 Timothy 1",
+        "count": 145
+    },
+    {
+        "chapter": "1 Corinthians 6",
+        "count": 144
+    },
+    {
+        "chapter": "Luke 20",
+        "count": 144
+    },
+    {
+        "chapter": "Ephesians 2",
+        "count": 143
+    },
+    {
+        "chapter": "Luke 13",
+        "count": 143
+    },
+    {
+        "chapter": "Romans 10",
+        "count": 143
+    },
+    {
+        "chapter": "Ephesians 1",
+        "count": 143
+    },
+    {
+        "chapter": "1 Corinthians 14",
+        "count": 139
+    },
+    {
+        "chapter": "Mark 12",
+        "count": 139
+    },
+    {
+        "chapter": "Romans 13",
+        "count": 138
+    },
+    {
+        "chapter": "1 John 3",
+        "count": 138
+    },
+    {
+        "chapter": "Romans 16",
+        "count": 137
+    },
+    {
+        "chapter": "1 Peter 3",
+        "count": 136
+    },
+    {
+        "chapter": "Romans 4",
+        "count": 136
+    },
+    {
+        "chapter": "Mark 15",
+        "count": 135
+    },
+    {
+        "chapter": "1 Corinthians 3",
+        "count": 135
+    },
+    {
+        "chapter": "Hebrews 1",
+        "count": 133
+    },
+    {
+        "chapter": "Luke 14",
+        "count": 132
+    },
+    {
+        "chapter": "2 Corinthians 11",
+        "count": 132
+    },
+    {
+        "chapter": "Philemon 1",
+        "count": 131
+    },
+    {
+        "chapter": "Revelation 2",
+        "count": 131
+    },
+    {
+        "chapter": "1 Corinthians 9",
+        "count": 127
+    },
+    {
+        "chapter": "Ephesians 6",
+        "count": 127
+    },
+    {
+        "chapter": "Acts 1",
+        "count": 126
+    },
+    {
+        "chapter": "1 John 4",
+        "count": 123
+    },
+    {
+        "chapter": "John 21",
+        "count": 122
+    },
+    {
+        "chapter": "Philippians 1",
+        "count": 122
+    },
+    {
+        "chapter": "Colossians 2",
+        "count": 121
+    },
+    {
+        "chapter": "James 1",
+        "count": 121
+    },
+    {
+        "chapter": "1 Peter 1",
+        "count": 120
+    },
+    {
+        "chapter": "Ezekiel 16",
+        "count": 120
+    },
+    {
+        "chapter": "Daniel 7",
+        "count": 118
+    },
+    {
+        "chapter": "Galatians 6",
+        "count": 118
+    },
+    {
+        "chapter": "2 Corinthians 4",
+        "count": 117
+    },
+    {
+        "chapter": "1 Timothy 5",
+        "count": 116
+    },
+    {
+        "chapter": "2 Corinthians 3",
+        "count": 115
+    },
+    {
+        "chapter": "Mark 13",
+        "count": 115
+    },
+    {
+        "chapter": "1 Timothy 2",
+        "count": 114
+    },
+    {
+        "chapter": "Hebrews 10",
+        "count": 114
+    },
+    {
+        "chapter": "Philippians 3",
+        "count": 113
+    },
+    {
+        "chapter": "Psalms 37",
+        "count": 113
+    },
+    {
+        "chapter": "Jude 1",
+        "count": 113
+    },
+    {
+        "chapter": "Ezekiel 40",
+        "count": 111
+    },
+    {
+        "chapter": "Hebrews 12",
+        "count": 110
+    },
+    {
+        "chapter": "Mark 4",
+        "count": 110
+    },
+    {
+        "chapter": "Song of Solomon 1",
+        "count": 110
+    },
+    {
+        "chapter": "Revelation 22",
+        "count": 109
+    },
+    {
+        "chapter": "1 Corinthians 2",
+        "count": 108
+    },
+    {
+        "chapter": "2 Thessalonians 2",
+        "count": 108
+    },
+    {
+        "chapter": "Genesis 49",
+        "count": 108
+    },
+    {
+        "chapter": "Matthew 20",
+        "count": 108
+    },
+    {
+        "chapter": "Psalms 18",
+        "count": 107
+    },
+    {
+        "chapter": "Mark 16",
+        "count": 106
+    },
+    {
+        "chapter": "Revelation 6",
+        "count": 106
+    },
+    {
+        "chapter": "2 Corinthians 12",
+        "count": 105
+    },
+    {
+        "chapter": "2 Corinthians 1",
+        "count": 105
+    },
+    {
+        "chapter": "Isaiah 40",
+        "count": 104
+    },
+    {
+        "chapter": "Acts 10",
+        "count": 103
+    },
+    {
+        "chapter": "Mark 8",
+        "count": 103
+    },
+    {
+        "chapter": "Revelation 3",
+        "count": 102
+    },
+    {
+        "chapter": "Matthew 28",
+        "count": 102
+    },
+    {
+        "chapter": "Revelation 5",
+        "count": 101
+    },
+    {
+        "chapter": "Jeremiah 2",
+        "count": 101
+    },
+    {
+        "chapter": "Revelation 12",
+        "count": 101
+    },
+    {
+        "chapter": "Titus 1",
+        "count": 100
+    },
+    {
+        "chapter": "1 Timothy 4",
+        "count": 100
+    },
+    {
+        "chapter": "2 Timothy 4",
+        "count": 100
+    },
+    {
+        "chapter": "Mark 5",
+        "count": 100
+    },
+    {
+        "chapter": "Revelation 19",
+        "count": 100
+    },
+    {
+        "chapter": "Proverbs 1",
+        "count": 99
+    },
+    {
+        "chapter": "1 Peter 4",
+        "count": 98
+    },
+    {
+        "chapter": "Ezekiel 1",
+        "count": 97
+    },
+    {
+        "chapter": "1 Corinthians 13",
+        "count": 96
+    },
+    {
+        "chapter": "1 Corinthians 4",
+        "count": 96
+    },
+    {
+        "chapter": "Genesis 4",
+        "count": 96
+    },
+    {
+        "chapter": "Hebrews 2",
+        "count": 94
+    },
+    {
+        "chapter": "Acts 8",
+        "count": 93
+    },
+    {
+        "chapter": "Hebrews 7",
+        "count": 93
+    },
+    {
+        "chapter": "2 Peter 2",
+        "count": 93
+    },
+    {
+        "chapter": "James 2",
+        "count": 93
+    },
+    {
+        "chapter": "1 Thessalonians 5",
+        "count": 92
+    },
+    {
+        "chapter": "2 Corinthians 6",
+        "count": 92
+    },
+    {
+        "chapter": "Isaiah 11",
+        "count": 90
+    },
+    {
+        "chapter": "1 Thessalonians 4",
+        "count": 89
+    },
+    {
+        "chapter": "Mark 11",
+        "count": 89
+    },
+    {
+        "chapter": "2 Timothy 3",
+        "count": 88
+    },
+    {
+        "chapter": "Colossians 3",
+        "count": 88
+    },
+    {
+        "chapter": "Daniel 2",
+        "count": 88
+    },
+    {
+        "chapter": "Acts 3",
+        "count": 86
+    },
+    {
+        "chapter": "Acts 7",
+        "count": 86
+    },
+    {
+        "chapter": "1 John 5",
+        "count": 86
+    },
+    {
+        "chapter": "Proverbs 3",
+        "count": 85
+    },
+    {
+        "chapter": "1 Corinthians 8",
+        "count": 85
+    },
+    {
+        "chapter": "1 Timothy 3",
+        "count": 85
+    },
+    {
+        "chapter": "Philippians 4",
+        "count": 85
+    },
+    {
+        "chapter": "Mark 3",
+        "count": 85
+    },
+    {
+        "chapter": "Isaiah 53",
+        "count": 84
+    },
+    {
+        "chapter": "Job 1",
+        "count": 84
+    },
+    {
+        "chapter": "Ecclesiastes 3",
+        "count": 83
+    },
+    {
+        "chapter": "2 Corinthians 8",
+        "count": 83
+    },
+    {
+        "chapter": "Hebrews 9",
+        "count": 83
+    },
+    {
+        "chapter": "2 Peter 1",
+        "count": 82
+    },
+    {
+        "chapter": "Ecclesiastes 1",
+        "count": 82
+    },
+    {
+        "chapter": "Ezekiel 3",
+        "count": 82
+    },
+    {
+        "chapter": "Habakkuk 3",
+        "count": 82
+    },
+    {
+        "chapter": "Ephesians 3",
+        "count": 82
+    },
+    {
+        "chapter": "Psalms 45",
+        "count": 81
+    },
+    {
+        "chapter": "Genesis 6",
+        "count": 81
+    },
+    {
+        "chapter": "Mark 2",
+        "count": 81
+    },
+    {
+        "chapter": "Psalms 22",
+        "count": 81
+    },
+    {
+        "chapter": "1 John 1",
+        "count": 81
+    },
+    {
+        "chapter": "Hebrews 13",
+        "count": 80
+    },
+    {
+        "chapter": "Mark 7",
+        "count": 80
+    },
+    {
+        "chapter": "Song of Solomon 2",
+        "count": 80
+    },
+    {
+        "chapter": "Acts 9",
+        "count": 79
+    },
+    {
+        "chapter": "Acts 4",
+        "count": 79
+    },
+    {
+        "chapter": "Psalms 33",
+        "count": 79
+    },
+    {
+        "chapter": "Ecclesiastes 7",
+        "count": 78
+    },
+    {
+        "chapter": "Exodus 3",
+        "count": 77
+    },
+    {
+        "chapter": "Revelation 17",
+        "count": 77
+    },
+    {
+        "chapter": "Isaiah 49",
+        "count": 76
+    },
+    {
+        "chapter": "Psalms 104",
+        "count": 76
+    },
+    {
+        "chapter": "Revelation 11",
+        "count": 75
+    },
+    {
+        "chapter": "Revelation 13",
+        "count": 75
+    },
+    {
+        "chapter": "2 Thessalonians 3",
+        "count": 74
+    },
+    {
+        "chapter": "Job 38",
+        "count": 74
+    },
+    {
+        "chapter": "Jeremiah 31",
+        "count": 73
+    },
+    {
+        "chapter": "Psalms 1",
+        "count": 73
+    },
+    {
+        "chapter": "1 Corinthians 5",
+        "count": 73
+    },
+    {
+        "chapter": "2 Corinthians 2",
+        "count": 73
+    },
+    {
+        "chapter": "Psalms 19",
+        "count": 72
+    },
+    {
+        "chapter": "Psalms 34",
+        "count": 71
+    },
+    {
+        "chapter": "2 Peter 3",
+        "count": 71
+    },
+    {
+        "chapter": "Revelation 14",
+        "count": 71
+    },
+    {
+        "chapter": "Jeremiah 17",
+        "count": 70
+    },
+    {
+        "chapter": "Proverbs 30",
+        "count": 70
+    },
+    {
+        "chapter": "1 Samuel 2",
+        "count": 69
+    },
+    {
+        "chapter": "Daniel 3",
+        "count": 69
+    },
+    {
+        "chapter": "Isaiah 26",
+        "count": 69
+    },
+    {
+        "chapter": "2 Timothy 1",
+        "count": 69
+    },
+    {
+        "chapter": "Revelation 16",
+        "count": 69
+    },
+    {
+        "chapter": "Psalms 9",
+        "count": 69
+    },
+    {
+        "chapter": "Acts 5",
+        "count": 68
+    },
+    {
+        "chapter": "1 Corinthians 16",
+        "count": 68
+    },
+    {
+        "chapter": "Acts 15",
+        "count": 68
+    },
+    {
+        "chapter": "Psalms 118",
+        "count": 67
+    },
+    {
+        "chapter": "Ezekiel 18",
+        "count": 67
+    },
+    {
+        "chapter": "Revelation 4",
+        "count": 67
+    },
+    {
+        "chapter": "Psalms 31",
+        "count": 67
+    },
+    {
+        "chapter": "1 Peter 5",
+        "count": 65
+    },
+    {
+        "chapter": "Revelation 7",
+        "count": 65
+    },
+    {
+        "chapter": "Daniel 11",
+        "count": 65
+    },
+    {
+        "chapter": "Psalms 69",
+        "count": 64
+    },
+    {
+        "chapter": "Ecclesiastes 2",
+        "count": 64
+    },
+    {
+        "chapter": "Genesis 18",
+        "count": 64
+    },
+    {
+        "chapter": "Revelation 9",
+        "count": 64
+    },
+    {
+        "chapter": "Isaiah 65",
+        "count": 64
+    },
+    {
+        "chapter": "Psalms 49",
+        "count": 63
+    },
+    {
+        "chapter": "2 Corinthians 10",
+        "count": 63
+    },
+    {
+        "chapter": "Acts 20",
+        "count": 63
+    },
+    {
+        "chapter": "Isaiah 66",
+        "count": 62
+    },
+    {
+        "chapter": "Hebrews 6",
+        "count": 62
+    },
+    {
+        "chapter": "James 4",
+        "count": 62
+    },
+    {
+        "chapter": "Job 39",
+        "count": 62
+    },
+    {
+        "chapter": "Isaiah 42",
+        "count": 61
+    },
+    {
+        "chapter": "Jeremiah 23",
+        "count": 61
+    },
+    {
+        "chapter": "Proverbs 8",
+        "count": 61
+    },
+    {
+        "chapter": "Daniel 12",
+        "count": 60
+    },
+    {
+        "chapter": "Revelation 8",
+        "count": 60
+    },
+    {
+        "chapter": "Ezekiel 34",
+        "count": 60
+    },
+    {
+        "chapter": "Hebrews 5",
+        "count": 60
+    },
+    {
+        "chapter": "Genesis 11",
+        "count": 60
+    },
+    {
+        "chapter": "Psalms 116",
+        "count": 59
+    },
+    {
+        "chapter": "Joel 2",
+        "count": 59
+    },
+    {
+        "chapter": "Acts 13",
+        "count": 59
+    },
+    {
+        "chapter": "Isaiah 45",
+        "count": 59
+    },
+    {
+        "chapter": "Acts 16",
+        "count": 59
+    },
+    {
+        "chapter": "Daniel 10",
+        "count": 59
+    },
+    {
+        "chapter": "Hebrews 4",
+        "count": 58
+    },
+    {
+        "chapter": "Isaiah 43",
+        "count": 58
+    },
+    {
+        "chapter": "Jeremiah 1",
+        "count": 58
+    },
+    {
+        "chapter": "Acts 17",
+        "count": 58
+    },
+    {
+        "chapter": "Daniel 9",
+        "count": 58
+    },
+    {
+        "chapter": "1 Samuel 17",
+        "count": 57
+    },
+    {
+        "chapter": "2 Corinthians 7",
+        "count": 57
+    },
+    {
+        "chapter": "Proverbs 31",
+        "count": 57
+    },
+    {
+        "chapter": "Psalms 68",
+        "count": 57
+    },
+    {
+        "chapter": "Song of Solomon 4",
+        "count": 57
+    },
+    {
+        "chapter": "Titus 3",
+        "count": 57
+    },
+    {
+        "chapter": "Daniel 8",
+        "count": 57
+    },
+    {
+        "chapter": "Isaiah 29",
+        "count": 56
+    },
+    {
+        "chapter": "Genesis 22",
+        "count": 56
+    },
+    {
+        "chapter": "Isaiah 9",
+        "count": 56
+    },
+    {
+        "chapter": "Psalms 50",
+        "count": 56
+    },
+    {
+        "chapter": "Exodus 12",
+        "count": 55
+    },
+    {
+        "chapter": "Genesis 24",
+        "count": 55
+    },
+    {
+        "chapter": "Isaiah 13",
+        "count": 55
+    },
+    {
+        "chapter": "Psalms 36",
+        "count": 55
+    },
+    {
+        "chapter": "Psalms 4",
+        "count": 55
+    },
+    {
+        "chapter": "Psalms 73",
+        "count": 55
+    },
+    {
+        "chapter": "Titus 2",
+        "count": 55
+    },
+    {
+        "chapter": "Daniel 4",
+        "count": 55
+    },
+    {
+        "chapter": "Genesis 15",
+        "count": 54
+    },
+    {
+        "chapter": "James 5",
+        "count": 54
+    },
+    {
+        "chapter": "Hebrews 8",
+        "count": 54
+    },
+    {
+        "chapter": "Isaiah 19",
+        "count": 53
+    },
+    {
+        "chapter": "Proverbs 4",
+        "count": 53
+    },
+    {
+        "chapter": "Psalms 25",
+        "count": 53
+    },
+    {
+        "chapter": "Psalms 38",
+        "count": 53
+    },
+    {
+        "chapter": "1 Samuel 1",
+        "count": 53
+    },
+    {
+        "chapter": "Job 31",
+        "count": 53
+    },
+    {
+        "chapter": "Job 5",
+        "count": 52
+    },
+    {
+        "chapter": "2 Thessalonians 1",
+        "count": 52
+    },
+    {
+        "chapter": "Psalms 51",
+        "count": 52
+    },
+    {
+        "chapter": "James 3",
+        "count": 52
+    },
+    {
+        "chapter": "Revelation 18",
+        "count": 52
+    },
+    {
+        "chapter": "Psalms 5",
+        "count": 52
+    },
+    {
+        "chapter": "1 Thessalonians 2",
+        "count": 52
+    },
+    {
+        "chapter": "Isaiah 6",
+        "count": 51
+    },
+    {
+        "chapter": "2 Corinthians 13",
+        "count": 51
+    },
+    {
+        "chapter": "Lamentations 1",
+        "count": 51
+    },
+    {
+        "chapter": "Psalms 102",
+        "count": 51
+    },
+    {
+        "chapter": "Job 9",
+        "count": 51
+    },
+    {
+        "chapter": "Exodus 20",
+        "count": 50
+    },
+    {
+        "chapter": "Isaiah 14",
+        "count": 50
+    },
+    {
+        "chapter": "Isaiah 5",
+        "count": 50
+    },
+    {
+        "chapter": "2 Corinthians 9",
+        "count": 50
+    },
+    {
+        "chapter": "Job 41",
+        "count": 50
+    },
+    {
+        "chapter": "Job 6",
+        "count": 50
+    },
+    {
+        "chapter": "Genesis 25",
+        "count": 49
+    },
+    {
+        "chapter": "Proverbs 6",
+        "count": 49
+    },
+    {
+        "chapter": "Psalms 35",
+        "count": 49
+    },
+    {
+        "chapter": "Isaiah 2",
+        "count": 49
+    },
+    {
+        "chapter": "Jeremiah 9",
+        "count": 48
+    },
+    {
+        "chapter": "Proverbs 10",
+        "count": 48
+    },
+    {
+        "chapter": "2 John 1",
+        "count": 48
+    },
+    {
+        "chapter": "Daniel 6",
+        "count": 48
+    },
+    {
+        "chapter": "Ecclesiastes 10",
+        "count": 48
+    },
+    {
+        "chapter": "Ecclesiastes 12",
+        "count": 48
+    },
+    {
+        "chapter": "Hosea 2",
+        "count": 48
+    },
+    {
+        "chapter": "Psalms 32",
+        "count": 48
+    },
+    {
+        "chapter": "Acts 19",
+        "count": 48
+    },
+    {
+        "chapter": "Jonah 1",
+        "count": 48
+    },
+    {
+        "chapter": "Proverbs 23",
+        "count": 48
+    },
+    {
+        "chapter": "Genesis 10",
+        "count": 48
+    },
+    {
+        "chapter": "Psalms 89",
+        "count": 47
+    },
+    {
+        "chapter": "Genesis 9",
+        "count": 47
+    },
+    {
+        "chapter": "Revelation 10",
+        "count": 47
+    },
+    {
+        "chapter": "Job 3",
+        "count": 47
+    },
+    {
+        "chapter": "Isaiah 52",
+        "count": 46
+    },
+    {
+        "chapter": "Psalms 16",
+        "count": 46
+    },
+    {
+        "chapter": "Proverbs 16",
+        "count": 46
+    },
+    {
+        "chapter": "Proverbs 5",
+        "count": 46
+    },
+    {
+        "chapter": "Isaiah 51",
+        "count": 46
+    },
+    {
+        "chapter": "Isaiah 7",
+        "count": 46
+    },
+    {
+        "chapter": "Psalms 10",
+        "count": 46
+    },
+    {
+        "chapter": "Job 36",
+        "count": 46
+    },
+    {
+        "chapter": "Genesis 17",
+        "count": 45
+    },
+    {
+        "chapter": "Genesis 27",
+        "count": 45
+    },
+    {
+        "chapter": "Isaiah 41",
+        "count": 45
+    },
+    {
+        "chapter": "Proverbs 20",
+        "count": 45
+    },
+    {
+        "chapter": "1 Samuel 15",
+        "count": 45
+    },
+    {
+        "chapter": "Jeremiah 3",
+        "count": 45
+    },
+    {
+        "chapter": "Isaiah 30",
+        "count": 45
+    },
+    {
+        "chapter": "Numbers 33",
+        "count": 45
+    },
+    {
+        "chapter": "Isaiah 28",
+        "count": 44
+    },
+    {
+        "chapter": "Proverbs 11",
+        "count": 44
+    },
+    {
+        "chapter": "Proverbs 22",
+        "count": 44
+    },
+    {
+        "chapter": "Ezekiel 13",
+        "count": 44
+    },
+    {
+        "chapter": "Isaiah 35",
+        "count": 44
+    },
+    {
+        "chapter": "Isaiah 60",
+        "count": 44
+    },
+    {
+        "chapter": "Lamentations 4",
+        "count": 44
+    },
+    {
+        "chapter": "Psalms 103",
+        "count": 44
+    },
+    {
+        "chapter": "Isaiah 58",
+        "count": 44
+    },
+    {
+        "chapter": "Psalms 7",
+        "count": 44
+    },
+    {
+        "chapter": "Job 13",
+        "count": 44
+    },
+    {
+        "chapter": "Genesis 26",
+        "count": 43
+    },
+    {
+        "chapter": "Psalms 2",
+        "count": 43
+    },
+    {
+        "chapter": "Genesis 14",
+        "count": 43
+    },
+    {
+        "chapter": "Genesis 8",
+        "count": 43
+    },
+    {
+        "chapter": "Jeremiah 7",
+        "count": 43
+    },
+    {
+        "chapter": "Obadiah 1",
+        "count": 43
+    },
+    {
+        "chapter": "Proverbs 9",
+        "count": 43
+    },
+    {
+        "chapter": "Song of Solomon 5",
+        "count": 43
+    },
+    {
+        "chapter": "Daniel 13",
+        "count": 43
+    },
+    {
+        "chapter": "Jeremiah 5",
+        "count": 43
+    },
+    {
+        "chapter": "Psalms 78",
+        "count": 43
+    },
+    {
+        "chapter": "Job 34",
+        "count": 43
+    },
+    {
+        "chapter": "Job 30",
+        "count": 43
+    },
+    {
+        "chapter": "Deuteronomy 32",
+        "count": 42
+    },
+    {
+        "chapter": "Isaiah 44",
+        "count": 42
+    },
+    {
+        "chapter": "Lamentations 3",
+        "count": 42
+    },
+    {
+        "chapter": "Proverbs 18",
+        "count": 42
+    },
+    {
+        "chapter": "Jeremiah 4",
+        "count": 42
+    },
+    {
+        "chapter": "Ezekiel 33",
+        "count": 42
+    },
+    {
+        "chapter": "1 Samuel 25",
+        "count": 41
+    },
+    {
+        "chapter": "Jonah 2",
+        "count": 41
+    },
+    {
+        "chapter": "Proverbs 15",
+        "count": 41
+    },
+    {
+        "chapter": "Psalms 23",
+        "count": 41
+    },
+    {
+        "chapter": "Psalms 27",
+        "count": 41
+    },
+    {
+        "chapter": "Psalms 44",
+        "count": 41
+    },
+    {
+        "chapter": "Psalms 72",
+        "count": 41
+    },
+    {
+        "chapter": "Isaiah 57",
+        "count": 41
+    },
+    {
+        "chapter": "Isaiah 54",
+        "count": 41
+    },
+    {
+        "chapter": "Hebrews 3",
+        "count": 41
+    },
+    {
+        "chapter": "1 Samuel 14",
+        "count": 41
+    },
+    {
+        "chapter": "Job 21",
+        "count": 41
+    },
+    {
+        "chapter": "Psalms 24",
+        "count": 40
+    },
+    {
+        "chapter": "Amos 5",
+        "count": 40
+    },
+    {
+        "chapter": "Isaiah 48",
+        "count": 40
+    },
+    {
+        "chapter": "Isaiah 63",
+        "count": 40
+    },
+    {
+        "chapter": "Psalms 17",
+        "count": 40
+    },
+    {
+        "chapter": "Psalms 41",
+        "count": 40
+    },
+    {
+        "chapter": "Song of Solomon 8",
+        "count": 40
+    },
+    {
+        "chapter": "Jeremiah 6",
+        "count": 40
+    },
+    {
+        "chapter": "Proverbs 25",
+        "count": 40
+    },
+    {
+        "chapter": "Jeremiah 8",
+        "count": 40
+    },
+    {
+        "chapter": "Psalms 6",
+        "count": 40
+    },
+    {
+        "chapter": "Job 19",
+        "count": 40
+    },
+    {
+        "chapter": "Job 40",
+        "count": 40
+    },
+    {
+        "chapter": "Job 15",
+        "count": 40
+    },
+    {
+        "chapter": "Psalms 94",
+        "count": 39
+    },
+    {
+        "chapter": "Daniel 5",
+        "count": 39
+    },
+    {
+        "chapter": "Ezekiel 20",
+        "count": 39
+    },
+    {
+        "chapter": "Genesis 19",
+        "count": 39
+    },
+    {
+        "chapter": "Isaiah 10",
+        "count": 39
+    },
+    {
+        "chapter": "Isaiah 50",
+        "count": 39
+    },
+    {
+        "chapter": "Jonah 3",
+        "count": 39
+    },
+    {
+        "chapter": "Psalms 40",
+        "count": 39
+    },
+    {
+        "chapter": "1 Samuel 16",
+        "count": 39
+    },
+    {
+        "chapter": "Jeremiah 25",
+        "count": 39
+    },
+    {
+        "chapter": "Isaiah 59",
+        "count": 39
+    },
+    {
+        "chapter": "Acts 21",
+        "count": 39
+    },
+    {
+        "chapter": "Job 20",
+        "count": 39
+    },
+    {
+        "chapter": "Job 22",
+        "count": 39
+    },
+    {
+        "chapter": "1 Samuel 13",
+        "count": 38
+    },
+    {
+        "chapter": "Isaiah 3",
+        "count": 38
+    },
+    {
+        "chapter": "Psalms 139",
+        "count": 38
+    },
+    {
+        "chapter": "Psalms 39",
+        "count": 38
+    },
+    {
+        "chapter": "1 Thessalonians 1",
+        "count": 38
+    },
+    {
+        "chapter": "Proverbs 24",
+        "count": 38
+    },
+    {
+        "chapter": "1 Samuel 9",
+        "count": 38
+    },
+    {
+        "chapter": "Isaiah 55",
+        "count": 37
+    },
+    {
+        "chapter": "1 Kings 6",
+        "count": 37
+    },
+    {
+        "chapter": "Habakkuk 2",
+        "count": 37
+    },
+    {
+        "chapter": "Isaiah 23",
+        "count": 37
+    },
+    {
+        "chapter": "Proverbs 13",
+        "count": 37
+    },
+    {
+        "chapter": "Psalms 105",
+        "count": 37
+    },
+    {
+        "chapter": "Acts 28",
+        "count": 37
+    },
+    {
+        "chapter": "Psalms 106",
+        "count": 37
+    },
+    {
+        "chapter": "Job 2",
+        "count": 37
+    },
+    {
+        "chapter": "Job 24",
+        "count": 37
+    },
+    {
+        "chapter": "Job 28",
+        "count": 37
+    },
+    {
+        "chapter": "Psalms 110",
+        "count": 36
+    },
+    {
+        "chapter": "1 Samuel 19",
+        "count": 36
+    },
+    {
+        "chapter": "Genesis 37",
+        "count": 36
+    },
+    {
+        "chapter": "Proverbs 21",
+        "count": 36
+    },
+    {
+        "chapter": "Colossians 4",
+        "count": 36
+    },
+    {
+        "chapter": "Hosea 4",
+        "count": 36
+    },
+    {
+        "chapter": "Job 33",
+        "count": 36
+    },
+    {
+        "chapter": "Exodus 32",
+        "count": 35
+    },
+    {
+        "chapter": "Genesis 13",
+        "count": 35
+    },
+    {
+        "chapter": "Genesis 21",
+        "count": 35
+    },
+    {
+        "chapter": "Genesis 7",
+        "count": 35
+    },
+    {
+        "chapter": "Proverbs 14",
+        "count": 35
+    },
+    {
+        "chapter": "Proverbs 27",
+        "count": 35
+    },
+    {
+        "chapter": "Zechariah 14",
+        "count": 35
+    },
+    {
+        "chapter": "Psalms 3",
+        "count": 35
+    },
+    {
+        "chapter": "Malachi 1",
+        "count": 35
+    },
+    {
+        "chapter": "Psalms 29",
+        "count": 35
+    },
+    {
+        "chapter": "Ezekiel 14",
+        "count": 35
+    },
+    {
+        "chapter": "Job 12",
+        "count": 35
+    },
+    {
+        "chapter": "Job 4",
+        "count": 35
+    },
+    {
+        "chapter": "Psalms 55",
+        "count": 34
+    },
+    {
+        "chapter": "Genesis 12",
+        "count": 34
+    },
+    {
+        "chapter": "Genesis 5",
+        "count": 34
+    },
+    {
+        "chapter": "Psalms 21",
+        "count": 34
+    },
+    {
+        "chapter": "Proverbs 12",
+        "count": 34
+    },
+    {
+        "chapter": "Job 37",
+        "count": 34
+    },
+    {
+        "chapter": "Psalms 8",
+        "count": 33
+    },
+    {
+        "chapter": "Psalms 109",
+        "count": 33
+    },
+    {
+        "chapter": "1 Samuel 24",
+        "count": 33
+    },
+    {
+        "chapter": "Ezekiel 44",
+        "count": 33
+    },
+    {
+        "chapter": "Proverbs 7",
+        "count": 33
+    },
+    {
+        "chapter": "Psalms 30",
+        "count": 33
+    },
+    {
+        "chapter": "Psalms 42",
+        "count": 33
+    },
+    {
+        "chapter": "Psalms 46",
+        "count": 33
+    },
+    {
+        "chapter": "Psalms 48",
+        "count": 33
+    },
+    {
+        "chapter": "Song of Solomon 6",
+        "count": 33
+    },
+    {
+        "chapter": "3 John 1",
+        "count": 33
+    },
+    {
+        "chapter": "Ecclesiastes 9",
+        "count": 33
+    },
+    {
+        "chapter": "1 Samuel 28",
+        "count": 33
+    },
+    {
+        "chapter": "Proverbs 2",
+        "count": 33
+    },
+    {
+        "chapter": "Jeremiah 11",
+        "count": 33
+    },
+    {
+        "chapter": "Exodus 4",
+        "count": 32
+    },
+    {
+        "chapter": "Isaiah 56",
+        "count": 32
+    },
+    {
+        "chapter": "Isaiah 61",
+        "count": 32
+    },
+    {
+        "chapter": "Jeremiah 15",
+        "count": 32
+    },
+    {
+        "chapter": "Psalms 11",
+        "count": 32
+    },
+    {
+        "chapter": "Isaiah 46",
+        "count": 32
+    },
+    {
+        "chapter": "Acts 12",
+        "count": 32
+    },
+    {
+        "chapter": "Job 14",
+        "count": 32
+    },
+    {
+        "chapter": "Job 11",
+        "count": 32
+    },
+    {
+        "chapter": "Job 29",
+        "count": 32
+    },
+    {
+        "chapter": "Proverbs 26",
+        "count": 31
+    },
+    {
+        "chapter": "Genesis 16",
+        "count": 31
+    },
+    {
+        "chapter": "Genesis 32",
+        "count": 31
+    },
+    {
+        "chapter": "Jeremiah 10",
+        "count": 31
+    },
+    {
+        "chapter": "Zechariah 9",
+        "count": 31
+    },
+    {
+        "chapter": "Acts 14",
+        "count": 31
+    },
+    {
+        "chapter": "1 Samuel 18",
+        "count": 31
+    },
+    {
+        "chapter": "Nahum 1",
+        "count": 31
+    },
+    {
+        "chapter": "Psalms 12",
+        "count": 31
+    },
+    {
+        "chapter": "Job 18",
+        "count": 31
+    },
+    {
+        "chapter": "Job 27",
+        "count": 31
+    },
+    {
+        "chapter": "Job 7",
+        "count": 31
+    },
+    {
+        "chapter": "Ecclesiastes 5",
+        "count": 30
+    },
+    {
+        "chapter": "Ezekiel 28",
+        "count": 30
+    },
+    {
+        "chapter": "Acts 27",
+        "count": 30
+    },
+    {
+        "chapter": "Acts 6",
+        "count": 30
+    },
+    {
+        "chapter": "Acts 11",
+        "count": 30
+    },
+    {
+        "chapter": "Malachi 3",
+        "count": 30
+    },
+    {
+        "chapter": "1 Samuel 4",
+        "count": 30
+    },
+    {
+        "chapter": "Job 8",
+        "count": 30
+    },
+    {
+        "chapter": "Daniel 1",
+        "count": 30
+    },
+    {
+        "chapter": "Isaiah 22",
+        "count": 29
+    },
+    {
+        "chapter": "Isaiah 64",
+        "count": 29
+    },
+    {
+        "chapter": "1 Samuel 20",
+        "count": 29
+    },
+    {
+        "chapter": "Ecclesiastes 11",
+        "count": 29
+    },
+    {
+        "chapter": "Genesis 45",
+        "count": 29
+    },
+    {
+        "chapter": "Psalms 77",
+        "count": 29
+    },
+    {
+        "chapter": "Acts 18",
+        "count": 29
+    },
+    {
+        "chapter": "Acts 22",
+        "count": 29
+    },
+    {
+        "chapter": "Psalms 26",
+        "count": 29
+    },
+    {
+        "chapter": "Psalms 91",
+        "count": 29
+    },
+    {
+        "chapter": "Psalms 96",
+        "count": 29
+    },
+    {
+        "chapter": "Exodus 33",
+        "count": 28
+    },
+    {
+        "chapter": "Jeremiah 20",
+        "count": 28
+    },
+    {
+        "chapter": "Song of Solomon 3",
+        "count": 28
+    },
+    {
+        "chapter": "Acts 23",
+        "count": 28
+    },
+    {
+        "chapter": "Jeremiah 13",
+        "count": 28
+    },
+    {
+        "chapter": "Ezekiel 36",
+        "count": 28
+    },
+    {
+        "chapter": "Micah 5",
+        "count": 28
+    },
+    {
+        "chapter": "Proverbs 19",
+        "count": 28
+    },
+    {
+        "chapter": "Psalms 62",
+        "count": 28
+    },
+    {
+        "chapter": "1 Samuel 6",
+        "count": 28
+    },
+    {
+        "chapter": "Job 10",
+        "count": 28
+    },
+    {
+        "chapter": "Job 16",
+        "count": 28
+    },
+    {
+        "chapter": "Lamentations 2",
+        "count": 28
+    },
+    {
+        "chapter": "Ezekiel 2",
+        "count": 28
+    },
+    {
+        "chapter": "Judges 5",
+        "count": 28
+    },
+    {
+        "chapter": "Jeremiah 32",
+        "count": 27
+    },
+    {
+        "chapter": "Genesis 28",
+        "count": 27
+    },
+    {
+        "chapter": "1 Samuel 21",
+        "count": 27
+    },
+    {
+        "chapter": "Ecclesiastes 4",
+        "count": 27
+    },
+    {
+        "chapter": "Genesis 39",
+        "count": 27
+    },
+    {
+        "chapter": "Jonah 4",
+        "count": 27
+    },
+    {
+        "chapter": "Proverbs 17",
+        "count": 27
+    },
+    {
+        "chapter": "1 Samuel 8",
+        "count": 27
+    },
+    {
+        "chapter": "Psalms 47",
+        "count": 27
+    },
+    {
+        "chapter": "Amos 3",
+        "count": 27
+    },
+    {
+        "chapter": "Ezra 6",
+        "count": 27
+    },
+    {
+        "chapter": "Psalms 13",
+        "count": 27
+    },
+    {
+        "chapter": "1 Kings 7",
+        "count": 27
+    },
+    {
+        "chapter": "Joel 1",
+        "count": 27
+    },
+    {
+        "chapter": "Job 42",
+        "count": 27
+    },
+    {
+        "chapter": "Ezekiel 37",
+        "count": 26
+    },
+    {
+        "chapter": "Isaiah 33",
+        "count": 26
+    },
+    {
+        "chapter": "Deuteronomy 6",
+        "count": 26
+    },
+    {
+        "chapter": "Exodus 15",
+        "count": 26
+    },
+    {
+        "chapter": "Nehemiah 12",
+        "count": 26
+    },
+    {
+        "chapter": "Zechariah 3",
+        "count": 26
+    },
+    {
+        "chapter": "Revelation 15",
+        "count": 26
+    },
+    {
+        "chapter": "Proverbs 28",
+        "count": 26
+    },
+    {
+        "chapter": "1 Samuel 7",
+        "count": 26
+    },
+    {
+        "chapter": "Hosea 1",
+        "count": 26
+    },
+    {
+        "chapter": "Psalms 147",
+        "count": 26
+    },
+    {
+        "chapter": "Psalms 71",
+        "count": 26
+    },
+    {
+        "chapter": "Psalms 74",
+        "count": 26
+    },
+    {
+        "chapter": "Zechariah 1",
+        "count": 26
+    },
+    {
+        "chapter": "Joshua 5",
+        "count": 26
+    },
+    {
+        "chapter": "Genesis 41",
+        "count": 25
+    },
+    {
+        "chapter": "Hosea 6",
+        "count": 25
+    },
+    {
+        "chapter": "Malachi 4",
+        "count": 25
+    },
+    {
+        "chapter": "Micah 1",
+        "count": 25
+    },
+    {
+        "chapter": "Psalms 145",
+        "count": 25
+    },
+    {
+        "chapter": "Proverbs 29",
+        "count": 25
+    },
+    {
+        "chapter": "Hosea 10",
+        "count": 25
+    },
+    {
+        "chapter": "Jeremiah 14",
+        "count": 25
+    },
+    {
+        "chapter": "Psalms 90",
+        "count": 25
+    },
+    {
+        "chapter": "1 Samuel 10",
+        "count": 25
+    },
+    {
+        "chapter": "Psalms 141",
+        "count": 25
+    },
+    {
+        "chapter": "Isaiah 62",
+        "count": 25
+    },
+    {
+        "chapter": "Job 35",
+        "count": 25
+    },
+    {
+        "chapter": "Ezekiel 17",
+        "count": 25
+    },
+    {
+        "chapter": "1 Samuel 22",
+        "count": 24
+    },
+    {
+        "chapter": "1 Thessalonians 3",
+        "count": 24
+    },
+    {
+        "chapter": "Ecclesiastes 8",
+        "count": 24
+    },
+    {
+        "chapter": "Exodus 7",
+        "count": 24
+    },
+    {
+        "chapter": "Psalms 148",
+        "count": 24
+    },
+    {
+        "chapter": "Zechariah 12",
+        "count": 24
+    },
+    {
+        "chapter": "Psalms 28",
+        "count": 24
+    },
+    {
+        "chapter": "Psalms 14",
+        "count": 24
+    },
+    {
+        "chapter": "1 Samuel 26",
+        "count": 24
+    },
+    {
+        "chapter": "Ezekiel 11",
+        "count": 24
+    },
+    {
+        "chapter": "Psalms 59",
+        "count": 24
+    },
+    {
+        "chapter": "Jeremiah 18",
+        "count": 24
+    },
+    {
+        "chapter": "Zephaniah 1",
+        "count": 24
+    },
+    {
+        "chapter": "Hosea 13",
+        "count": 23
+    },
+    {
+        "chapter": "2 Samuel 12",
+        "count": 23
+    },
+    {
+        "chapter": "Haggai 1",
+        "count": 23
+    },
+    {
+        "chapter": "Jeremiah 12",
+        "count": 23
+    },
+    {
+        "chapter": "Jeremiah 16",
+        "count": 23
+    },
+    {
+        "chapter": "Joshua 2",
+        "count": 23
+    },
+    {
+        "chapter": "Psalms 15",
+        "count": 23
+    },
+    {
+        "chapter": "Isaiah 47",
+        "count": 23
+    },
+    {
+        "chapter": "1 Samuel 3",
+        "count": 23
+    },
+    {
+        "chapter": "Zechariah 11",
+        "count": 23
+    },
+    {
+        "chapter": "Job 23",
+        "count": 23
+    },
+    {
+        "chapter": "Isaiah 21",
+        "count": 23
+    },
+    {
+        "chapter": "Ezekiel 27",
+        "count": 23
+    },
+    {
+        "chapter": "Ezekiel 7",
+        "count": 23
+    },
+    {
+        "chapter": "Isaiah 8",
+        "count": 22
+    },
+    {
+        "chapter": "Zechariah 8",
+        "count": 22
+    },
+    {
+        "chapter": "Psalms 101",
+        "count": 22
+    },
+    {
+        "chapter": "Amos 9",
+        "count": 22
+    },
+    {
+        "chapter": "1 Kings 17",
+        "count": 22
+    },
+    {
+        "chapter": "Exodus 19",
+        "count": 22
+    },
+    {
+        "chapter": "Genesis 30",
+        "count": 22
+    },
+    {
+        "chapter": "Genesis 31",
+        "count": 22
+    },
+    {
+        "chapter": "Haggai 2",
+        "count": 22
+    },
+    {
+        "chapter": "Joshua 1",
+        "count": 22
+    },
+    {
+        "chapter": "Joshua 6",
+        "count": 22
+    },
+    {
+        "chapter": "Judges 16",
+        "count": 22
+    },
+    {
+        "chapter": "Micah 7",
+        "count": 22
+    },
+    {
+        "chapter": "Malachi 2",
+        "count": 22
+    },
+    {
+        "chapter": "Psalms 57",
+        "count": 22
+    },
+    {
+        "chapter": "2 Kings 4",
+        "count": 22
+    },
+    {
+        "chapter": "Psalms 132",
+        "count": 22
+    },
+    {
+        "chapter": "Psalms 135",
+        "count": 22
+    },
+    {
+        "chapter": "Psalms 143",
+        "count": 22
+    },
+    {
+        "chapter": "1 Samuel 23",
+        "count": 22
+    },
+    {
+        "chapter": "Ezra 7",
+        "count": 22
+    },
+    {
+        "chapter": "Hosea 5",
+        "count": 22
+    },
+    {
+        "chapter": "Job 17",
+        "count": 22
+    },
+    {
+        "chapter": "Job 32",
+        "count": 22
+    },
+    {
+        "chapter": "1 Kings 19",
+        "count": 21
+    },
+    {
+        "chapter": "Exodus 14",
+        "count": 21
+    },
+    {
+        "chapter": "Joshua 10",
+        "count": 21
+    },
+    {
+        "chapter": "Micah 6",
+        "count": 21
+    },
+    {
+        "chapter": "Psalms 81",
+        "count": 21
+    },
+    {
+        "chapter": "Genesis 20",
+        "count": 21
+    },
+    {
+        "chapter": "Nehemiah 3",
+        "count": 21
+    },
+    {
+        "chapter": "Isaiah 16",
+        "count": 21
+    },
+    {
+        "chapter": "Isaiah 25",
+        "count": 20
+    },
+    {
+        "chapter": "Psalms 112",
+        "count": 20
+    },
+    {
+        "chapter": "1 Kings 18",
+        "count": 20
+    },
+    {
+        "chapter": "Amos 4",
+        "count": 20
+    },
+    {
+        "chapter": "Psalms 20",
+        "count": 20
+    },
+    {
+        "chapter": "Isaiah 38",
+        "count": 20
+    },
+    {
+        "chapter": "Psalms 66",
+        "count": 20
+    },
+    {
+        "chapter": "Ezra 10",
+        "count": 20
+    },
+    {
+        "chapter": "Psalms 60",
+        "count": 20
+    },
+    {
+        "chapter": "Hosea 7",
+        "count": 20
+    },
+    {
+        "chapter": "1 Chronicles 1",
+        "count": 20
+    },
+    {
+        "chapter": "Lamentations 5",
+        "count": 20
+    },
+    {
+        "chapter": "Exodus 1",
+        "count": 19
+    },
+    {
+        "chapter": "Isaiah 27",
+        "count": 19
+    },
+    {
+        "chapter": "Judges 6",
+        "count": 19
+    },
+    {
+        "chapter": "Micah 4",
+        "count": 19
+    },
+    {
+        "chapter": "Ezekiel 9",
+        "count": 19
+    },
+    {
+        "chapter": "Ezra 3",
+        "count": 19
+    },
+    {
+        "chapter": "Psalms 140",
+        "count": 19
+    },
+    {
+        "chapter": "2 Kings 2",
+        "count": 19
+    },
+    {
+        "chapter": "Psalms 144",
+        "count": 19
+    },
+    {
+        "chapter": "Psalms 146",
+        "count": 19
+    },
+    {
+        "chapter": "Psalms 52",
+        "count": 19
+    },
+    {
+        "chapter": "Psalms 54",
+        "count": 19
+    },
+    {
+        "chapter": "Psalms 86",
+        "count": 19
+    },
+    {
+        "chapter": "Amos 2",
+        "count": 19
+    },
+    {
+        "chapter": "1 Samuel 5",
+        "count": 19
+    },
+    {
+        "chapter": "Exodus 25",
+        "count": 19
+    },
+    {
+        "chapter": "Isaiah 24",
+        "count": 19
+    },
+    {
+        "chapter": "Hosea 11",
+        "count": 19
+    },
+    {
+        "chapter": "Esther 2",
+        "count": 19
+    },
+    {
+        "chapter": "Isaiah 37",
+        "count": 19
+    },
+    {
+        "chapter": "Leviticus 19",
+        "count": 18
+    },
+    {
+        "chapter": "Exodus 2",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 58",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 95",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 107",
+        "count": 18
+    },
+    {
+        "chapter": "Acts 26",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 126",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 79",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 80",
+        "count": 18
+    },
+    {
+        "chapter": "Psalms 97",
+        "count": 18
+    },
+    {
+        "chapter": "1 Samuel 11",
+        "count": 18
+    },
+    {
+        "chapter": "Job 26",
+        "count": 18
+    },
+    {
+        "chapter": "Isaiah 17",
+        "count": 18
+    },
+    {
+        "chapter": "Ezekiel 4",
+        "count": 18
+    },
+    {
+        "chapter": "Joel 3",
+        "count": 18
+    },
+    {
+        "chapter": "Habakkuk 1",
+        "count": 17
+    },
+    {
+        "chapter": "1 Kings 3",
+        "count": 17
+    },
+    {
+        "chapter": "Psalms 65",
+        "count": 17
+    },
+    {
+        "chapter": "Zechariah 4",
+        "count": 17
+    },
+    {
+        "chapter": "Esther 9",
+        "count": 17
+    },
+    {
+        "chapter": "1 Samuel 27",
+        "count": 17
+    },
+    {
+        "chapter": "Joshua 11",
+        "count": 17
+    },
+    {
+        "chapter": "Psalms 56",
+        "count": 17
+    },
+    {
+        "chapter": "Psalms 76",
+        "count": 17
+    },
+    {
+        "chapter": "1 Samuel 30",
+        "count": 17
+    },
+    {
+        "chapter": "Ezra 2",
+        "count": 17
+    },
+    {
+        "chapter": "Ezra 8",
+        "count": 17
+    },
+    {
+        "chapter": "Hosea 9",
+        "count": 17
+    },
+    {
+        "chapter": "Genesis 38",
+        "count": 17
+    },
+    {
+        "chapter": "Ezekiel 47",
+        "count": 17
+    },
+    {
+        "chapter": "Amos 1",
+        "count": 17
+    },
+    {
+        "chapter": "Leviticus 11",
+        "count": 16
+    },
+    {
+        "chapter": "Exodus 16",
+        "count": 16
+    },
+    {
+        "chapter": "Leviticus 26",
+        "count": 16
+    },
+    {
+        "chapter": "Deuteronomy 4",
+        "count": 16
+    },
+    {
+        "chapter": "Exodus 8",
+        "count": 16
+    },
+    {
+        "chapter": "Genesis 43",
+        "count": 16
+    },
+    {
+        "chapter": "Genesis 46",
+        "count": 16
+    },
+    {
+        "chapter": "Genesis 48",
+        "count": 16
+    },
+    {
+        "chapter": "Jeremiah 26",
+        "count": 16
+    },
+    {
+        "chapter": "Judges 7",
+        "count": 16
+    },
+    {
+        "chapter": "Numbers 16",
+        "count": 16
+    },
+    {
+        "chapter": "Jeremiah 29",
+        "count": 16
+    },
+    {
+        "chapter": "Psalms 115",
+        "count": 16
+    },
+    {
+        "chapter": "Joshua 8",
+        "count": 16
+    },
+    {
+        "chapter": "Psalms 85",
+        "count": 16
+    },
+    {
+        "chapter": "Nehemiah 13",
+        "count": 16
+    },
+    {
+        "chapter": "Genesis 29",
+        "count": 16
+    },
+    {
+        "chapter": "Zephaniah 3",
+        "count": 16
+    },
+    {
+        "chapter": "Amos 7",
+        "count": 16
+    },
+    {
+        "chapter": "Deuteronomy 33",
+        "count": 15
+    },
+    {
+        "chapter": "Exodus 17",
+        "count": 15
+    },
+    {
+        "chapter": "Jeremiah 22",
+        "count": 15
+    },
+    {
+        "chapter": "Micah 2",
+        "count": 15
+    },
+    {
+        "chapter": "Jeremiah 51",
+        "count": 15
+    },
+    {
+        "chapter": "Hosea 12",
+        "count": 15
+    },
+    {
+        "chapter": "Numbers 11",
+        "count": 15
+    },
+    {
+        "chapter": "Psalms 121",
+        "count": 15
+    },
+    {
+        "chapter": "Psalms 83",
+        "count": 15
+    },
+    {
+        "chapter": "Psalms 84",
+        "count": 15
+    },
+    {
+        "chapter": "Psalms 92",
+        "count": 15
+    },
+    {
+        "chapter": "Zechariah 13",
+        "count": 15
+    },
+    {
+        "chapter": "Hosea 8",
+        "count": 15
+    },
+    {
+        "chapter": "1 Kings 8",
+        "count": 15
+    },
+    {
+        "chapter": "Ezra 4",
+        "count": 15
+    },
+    {
+        "chapter": "Nehemiah 4",
+        "count": 15
+    },
+    {
+        "chapter": "Esther 1",
+        "count": 15
+    },
+    {
+        "chapter": "Isaiah 15",
+        "count": 15
+    },
+    {
+        "chapter": "Isaiah 36",
+        "count": 15
+    },
+    {
+        "chapter": "1 Kings 13",
+        "count": 14
+    },
+    {
+        "chapter": "2 Kings 6",
+        "count": 14
+    },
+    {
+        "chapter": "2 Samuel 6",
+        "count": 14
+    },
+    {
+        "chapter": "Joshua 7",
+        "count": 14
+    },
+    {
+        "chapter": "Judges 13",
+        "count": 14
+    },
+    {
+        "chapter": "Judges 15",
+        "count": 14
+    },
+    {
+        "chapter": "Nahum 2",
+        "count": 14
+    },
+    {
+        "chapter": "Psalms 88",
+        "count": 14
+    },
+    {
+        "chapter": "Jeremiah 27",
+        "count": 14
+    },
+    {
+        "chapter": "Ezra 1",
+        "count": 14
+    },
+    {
+        "chapter": "1 Kings 11",
+        "count": 14
+    },
+    {
+        "chapter": "Judges 2",
+        "count": 14
+    },
+    {
+        "chapter": "Psalms 75",
+        "count": 14
+    },
+    {
+        "chapter": "Psalms 82",
+        "count": 14
+    },
+    {
+        "chapter": "Zephaniah 2",
+        "count": 14
+    },
+    {
+        "chapter": "Joshua 4",
+        "count": 14
+    },
+    {
+        "chapter": "Jeremiah 30",
+        "count": 14
+    },
+    {
+        "chapter": "Esther 8",
+        "count": 14
+    },
+    {
+        "chapter": "Ezekiel 8",
+        "count": 14
+    },
+    {
+        "chapter": "1 Kings 12",
+        "count": 13
+    },
+    {
+        "chapter": "1 Kings 21",
+        "count": 13
+    },
+    {
+        "chapter": "2 Samuel 18",
+        "count": 13
+    },
+    {
+        "chapter": "Deuteronomy 30",
+        "count": 13
+    },
+    {
+        "chapter": "Exodus 21",
+        "count": 13
+    },
+    {
+        "chapter": "Isaiah 32",
+        "count": 13
+    },
+    {
+        "chapter": "Judges 11",
+        "count": 13
+    },
+    {
+        "chapter": "Numbers 24",
+        "count": 13
+    },
+    {
+        "chapter": "Psalms 137",
+        "count": 13
+    },
+    {
+        "chapter": "Song of Solomon 7",
+        "count": 13
+    },
+    {
+        "chapter": "Psalms 43",
+        "count": 13
+    },
+    {
+        "chapter": "1 Kings 1",
+        "count": 13
+    },
+    {
+        "chapter": "Joshua 24",
+        "count": 13
+    },
+    {
+        "chapter": "Psalms 138",
+        "count": 13
+    },
+    {
+        "chapter": "Nehemiah 8",
+        "count": 13
+    },
+    {
+        "chapter": "1 Kings 22",
+        "count": 13
+    },
+    {
+        "chapter": "Genesis 47",
+        "count": 13
+    },
+    {
+        "chapter": "Exodus 22",
+        "count": 12
+    },
+    {
+        "chapter": "2 Samuel 24",
+        "count": 12
+    },
+    {
+        "chapter": "Deuteronomy 8",
+        "count": 12
+    },
+    {
+        "chapter": "Ecclesiastes 6",
+        "count": 12
+    },
+    {
+        "chapter": "Exodus 13",
+        "count": 12
+    },
+    {
+        "chapter": "Genesis 42",
+        "count": 12
+    },
+    {
+        "chapter": "Hosea 14",
+        "count": 12
+    },
+    {
+        "chapter": "Isaiah 12",
+        "count": 12
+    },
+    {
+        "chapter": "Numbers 12",
+        "count": 12
+    },
+    {
+        "chapter": "Psalms 113",
+        "count": 12
+    },
+    {
+        "chapter": "Exodus 34",
+        "count": 12
+    },
+    {
+        "chapter": "Psalms 131",
+        "count": 12
+    },
+    {
+        "chapter": "Psalms 64",
+        "count": 12
+    },
+    {
+        "chapter": "Amos 6",
+        "count": 12
+    },
+    {
+        "chapter": "1 Samuel 31",
+        "count": 12
+    },
+    {
+        "chapter": "Ezekiel 10",
+        "count": 12
+    },
+    {
+        "chapter": "Isaiah 4",
+        "count": 12
+    },
+    {
+        "chapter": "Judges 1",
+        "count": 12
+    },
+    {
+        "chapter": "Joshua 3",
+        "count": 12
+    },
+    {
+        "chapter": "Ezekiel 43",
+        "count": 12
+    },
+    {
+        "chapter": "1 Kings 20",
+        "count": 11
+    },
+    {
+        "chapter": "2 Samuel 23",
+        "count": 11
+    },
+    {
+        "chapter": "Hosea 3",
+        "count": 11
+    },
+    {
+        "chapter": "Numbers 20",
+        "count": 11
+    },
+    {
+        "chapter": "Numbers 21",
+        "count": 11
+    },
+    {
+        "chapter": "Psalms 122",
+        "count": 11
+    },
+    {
+        "chapter": "Psalms 124",
+        "count": 11
+    },
+    {
+        "chapter": "Psalms 63",
+        "count": 11
+    },
+    {
+        "chapter": "Ruth 1",
+        "count": 11
+    },
+    {
+        "chapter": "Zechariah 5",
+        "count": 11
+    },
+    {
+        "chapter": "1 Kings 15",
+        "count": 11
+    },
+    {
+        "chapter": "Exodus 9",
+        "count": 11
+    },
+    {
+        "chapter": "Jeremiah 19",
+        "count": 11
+    },
+    {
+        "chapter": "Judges 3",
+        "count": 11
+    },
+    {
+        "chapter": "Psalms 129",
+        "count": 11
+    },
+    {
+        "chapter": "Psalms 98",
+        "count": 11
+    },
+    {
+        "chapter": "Amos 8",
+        "count": 11
+    },
+    {
+        "chapter": "1 Samuel 12",
+        "count": 11
+    },
+    {
+        "chapter": "Acts 24",
+        "count": 11
+    },
+    {
+        "chapter": "Micah 3",
+        "count": 11
+    },
+    {
+        "chapter": "Nahum 3",
+        "count": 11
+    },
+    {
+        "chapter": "Jeremiah 28",
+        "count": 11
+    },
+    {
+        "chapter": "Deuteronomy 10",
+        "count": 10
+    },
+    {
+        "chapter": "Deuteronomy 19",
+        "count": 10
+    },
+    {
+        "chapter": "2 Samuel 16",
+        "count": 10
+    },
+    {
+        "chapter": "Deuteronomy 22",
+        "count": 10
+    },
+    {
+        "chapter": "Judges 14",
+        "count": 10
+    },
+    {
+        "chapter": "Leviticus 2",
+        "count": 10
+    },
+    {
+        "chapter": "Psalms 111",
+        "count": 10
+    },
+    {
+        "chapter": "Esther 6",
+        "count": 10
+    },
+    {
+        "chapter": "Jeremiah 48",
+        "count": 10
+    },
+    {
+        "chapter": "2 Kings 19",
+        "count": 10
+    },
+    {
+        "chapter": "Exodus 23",
+        "count": 10
+    },
+    {
+        "chapter": "Psalms 127",
+        "count": 10
+    },
+    {
+        "chapter": "Psalms 142",
+        "count": 10
+    },
+    {
+        "chapter": "Psalms 149",
+        "count": 10
+    },
+    {
+        "chapter": "Psalms 61",
+        "count": 10
+    },
+    {
+        "chapter": "Zechariah 2",
+        "count": 10
+    },
+    {
+        "chapter": "1 Kings 5",
+        "count": 10
+    },
+    {
+        "chapter": "Nehemiah 5",
+        "count": 10
+    },
+    {
+        "chapter": "2 Kings 5",
+        "count": 10
+    },
+    {
+        "chapter": "Zechariah 7",
+        "count": 10
+    },
+    {
+        "chapter": "Isaiah 18",
+        "count": 10
+    },
+    {
+        "chapter": "Isaiah 34",
+        "count": 10
+    },
+    {
+        "chapter": "1 Kings 14",
+        "count": 10
+    },
+    {
+        "chapter": "Ezekiel 48",
+        "count": 10
+    },
+    {
+        "chapter": "Ezekiel 5",
+        "count": 10
+    },
+    {
+        "chapter": "Joshua 15",
+        "count": 10
+    },
+    {
+        "chapter": "2 Samuel 1",
+        "count": 9
+    },
+    {
+        "chapter": "Exodus 24",
+        "count": 9
+    },
+    {
+        "chapter": "Genesis 40",
+        "count": 9
+    },
+    {
+        "chapter": "Isaiah 20",
+        "count": 9
+    },
+    {
+        "chapter": "Ruth 4",
+        "count": 9
+    },
+    {
+        "chapter": "2 Samuel 7",
+        "count": 9
+    },
+    {
+        "chapter": "Isaiah 39",
+        "count": 9
+    },
+    {
+        "chapter": "2 Kings 13",
+        "count": 9
+    },
+    {
+        "chapter": "Nehemiah 1",
+        "count": 9
+    },
+    {
+        "chapter": "Psalms 125",
+        "count": 9
+    },
+    {
+        "chapter": "1 Chronicles 16",
+        "count": 9
+    },
+    {
+        "chapter": "Numbers 14",
+        "count": 9
+    },
+    {
+        "chapter": "Psalms 128",
+        "count": 9
+    },
+    {
+        "chapter": "Psalms 133",
+        "count": 9
+    },
+    {
+        "chapter": "Psalms 53",
+        "count": 9
+    },
+    {
+        "chapter": "Zechariah 6",
+        "count": 9
+    },
+    {
+        "chapter": "Ezra 9",
+        "count": 9
+    },
+    {
+        "chapter": "Nehemiah 2",
+        "count": 9
+    },
+    {
+        "chapter": "Nehemiah 6",
+        "count": 9
+    },
+    {
+        "chapter": "Nehemiah 7",
+        "count": 9
+    },
+    {
+        "chapter": "Jeremiah 21",
+        "count": 9
+    },
+    {
+        "chapter": "Genesis 35",
+        "count": 9
+    },
+    {
+        "chapter": "Ezekiel 6",
+        "count": 9
+    },
+    {
+        "chapter": "Joshua 13",
+        "count": 9
+    },
+    {
+        "chapter": "Deuteronomy 25",
+        "count": 8
+    },
+    {
+        "chapter": "1 Kings 10",
+        "count": 8
+    },
+    {
+        "chapter": "1 Kings 2",
+        "count": 8
+    },
+    {
+        "chapter": "2 Samuel 15",
+        "count": 8
+    },
+    {
+        "chapter": "Deuteronomy 23",
+        "count": 8
+    },
+    {
+        "chapter": "Deuteronomy 28",
+        "count": 8
+    },
+    {
+        "chapter": "Deuteronomy 34",
+        "count": 8
+    },
+    {
+        "chapter": "Deuteronomy 5",
+        "count": 8
+    },
+    {
+        "chapter": "Exodus 28",
+        "count": 8
+    },
+    {
+        "chapter": "Isaiah 31",
+        "count": 8
+    },
+    {
+        "chapter": "Joshua 14",
+        "count": 8
+    },
+    {
+        "chapter": "Judges 19",
+        "count": 8
+    },
+    {
+        "chapter": "Numbers 22",
+        "count": 8
+    },
+    {
+        "chapter": "Numbers 25",
+        "count": 8
+    },
+    {
+        "chapter": "2 Chronicles 26",
+        "count": 8
+    },
+    {
+        "chapter": "Psalms 120",
+        "count": 8
+    },
+    {
+        "chapter": "1 Chronicles 11",
+        "count": 8
+    },
+    {
+        "chapter": "Psalms 100",
+        "count": 8
+    },
+    {
+        "chapter": "Psalms 123",
+        "count": 8
+    },
+    {
+        "chapter": "Psalms 67",
+        "count": 8
+    },
+    {
+        "chapter": "Psalms 70",
+        "count": 8
+    },
+    {
+        "chapter": "Psalms 87",
+        "count": 8
+    },
+    {
+        "chapter": "Leviticus 25",
+        "count": 8
+    },
+    {
+        "chapter": "1 Samuel 29",
+        "count": 8
+    },
+    {
+        "chapter": "Exodus 26",
+        "count": 8
+    },
+    {
+        "chapter": "Nehemiah 9",
+        "count": 8
+    },
+    {
+        "chapter": "2 Kings 1",
+        "count": 8
+    },
+    {
+        "chapter": "2 Kings 17",
+        "count": 8
+    },
+    {
+        "chapter": "Jeremiah 50",
+        "count": 8
+    },
+    {
+        "chapter": "2 Kings 3",
+        "count": 8
+    },
+    {
+        "chapter": "Job 25",
+        "count": 8
+    },
+    {
+        "chapter": "Ezekiel 12",
+        "count": 8
+    },
+    {
+        "chapter": "Exodus 29",
+        "count": 7
+    },
+    {
+        "chapter": "2 Kings 23",
+        "count": 7
+    },
+    {
+        "chapter": "2 Samuel 11",
+        "count": 7
+    },
+    {
+        "chapter": "Numbers 15",
+        "count": 7
+    },
+    {
+        "chapter": "Psalms 99",
+        "count": 7
+    },
+    {
+        "chapter": "Psalms 130",
+        "count": 7
+    },
+    {
+        "chapter": "Zechariah 10",
+        "count": 7
+    },
+    {
+        "chapter": "Daniel 14",
+        "count": 7
+    },
+    {
+        "chapter": "2 Kings 22",
+        "count": 7
+    },
+    {
+        "chapter": "Deuteronomy 13",
+        "count": 7
+    },
+    {
+        "chapter": "Deuteronomy 9",
+        "count": 7
+    },
+    {
+        "chapter": "Exodus 30",
+        "count": 7
+    },
+    {
+        "chapter": "Exodus 5",
+        "count": 7
+    },
+    {
+        "chapter": "Exodus 6",
+        "count": 7
+    },
+    {
+        "chapter": "Ezra 5",
+        "count": 7
+    },
+    {
+        "chapter": "Judges 9",
+        "count": 7
+    },
+    {
+        "chapter": "Leviticus 6",
+        "count": 7
+    },
+    {
+        "chapter": "Psalms 136",
+        "count": 7
+    },
+    {
+        "chapter": "Nehemiah 11",
+        "count": 7
+    },
+    {
+        "chapter": "Jeremiah 24",
+        "count": 7
+    },
+    {
+        "chapter": "Exodus 11",
+        "count": 7
+    },
+    {
+        "chapter": "Leviticus 14",
+        "count": 7
+    },
+    {
+        "chapter": "Genesis 23",
+        "count": 7
+    },
+    {
+        "chapter": "1 Kings 16",
+        "count": 7
+    },
+    {
+        "chapter": "1 Kings 4",
+        "count": 7
+    },
+    {
+        "chapter": "Esther 3",
+        "count": 7
+    },
+    {
+        "chapter": "Numbers 34",
+        "count": 7
+    },
+    {
+        "chapter": "Deuteronomy 17",
+        "count": 6
+    },
+    {
+        "chapter": "2 Kings 20",
+        "count": 6
+    },
+    {
+        "chapter": "Deuteronomy 21",
+        "count": 6
+    },
+    {
+        "chapter": "Esther 4",
+        "count": 6
+    },
+    {
+        "chapter": "Genesis 44",
+        "count": 6
+    },
+    {
+        "chapter": "Judges 20",
+        "count": 6
+    },
+    {
+        "chapter": "Judges 4",
+        "count": 6
+    },
+    {
+        "chapter": "Numbers 17",
+        "count": 6
+    },
+    {
+        "chapter": "Psalms 114",
+        "count": 6
+    },
+    {
+        "chapter": "Psalms 150",
+        "count": 6
+    },
+    {
+        "chapter": "2 Kings 14",
+        "count": 6
+    },
+    {
+        "chapter": "2 Kings 18",
+        "count": 6
+    },
+    {
+        "chapter": "2 Samuel 22",
+        "count": 6
+    },
+    {
+        "chapter": "Joshua 18",
+        "count": 6
+    },
+    {
+        "chapter": "Leviticus 18",
+        "count": 6
+    },
+    {
+        "chapter": "Numbers 18",
+        "count": 6
+    },
+    {
+        "chapter": "Deuteronomy 27",
+        "count": 6
+    },
+    {
+        "chapter": "1 Chronicles 21",
+        "count": 6
+    },
+    {
+        "chapter": "Leviticus 1",
+        "count": 6
+    },
+    {
+        "chapter": "Leviticus 24",
+        "count": 6
+    },
+    {
+        "chapter": "Deuteronomy 16",
+        "count": 6
+    },
+    {
+        "chapter": "2 Samuel 8",
+        "count": 6
+    },
+    {
+        "chapter": "Esther 5",
+        "count": 6
+    },
+    {
+        "chapter": "Jeremiah 44",
+        "count": 6
+    },
+    {
+        "chapter": "Deuteronomy 1",
+        "count": 6
+    },
+    {
+        "chapter": "2 Kings 12",
+        "count": 6
+    },
+    {
+        "chapter": "2 Kings 8",
+        "count": 6
+    },
+    {
+        "chapter": "Joshua 17",
+        "count": 6
+    },
+    {
+        "chapter": "Ezekiel 21",
+        "count": 6
+    },
+    {
+        "chapter": "Ezekiel 45",
+        "count": 6
+    },
+    {
+        "chapter": "Genesis 36",
+        "count": 6
+    },
+    {
+        "chapter": "Deuteronomy 18",
+        "count": 5
+    },
+    {
+        "chapter": "2 Kings 24",
+        "count": 5
+    },
+    {
+        "chapter": "2 Samuel 3",
+        "count": 5
+    },
+    {
+        "chapter": "2 Samuel 5",
+        "count": 5
+    },
+    {
+        "chapter": "Exodus 10",
+        "count": 5
+    },
+    {
+        "chapter": "Joshua 9",
+        "count": 5
+    },
+    {
+        "chapter": "Numbers 31",
+        "count": 5
+    },
+    {
+        "chapter": "Psalms 134",
+        "count": 5
+    },
+    {
+        "chapter": "1 Chronicles 28",
+        "count": 5
+    },
+    {
+        "chapter": "2 Samuel 17",
+        "count": 5
+    },
+    {
+        "chapter": "2 Samuel 21",
+        "count": 5
+    },
+    {
+        "chapter": "Deuteronomy 12",
+        "count": 5
+    },
+    {
+        "chapter": "Psalms 93",
+        "count": 5
+    },
+    {
+        "chapter": "2 Kings 7",
+        "count": 5
+    },
+    {
+        "chapter": "Nehemiah 10",
+        "count": 5
+    },
+    {
+        "chapter": "Numbers 19",
+        "count": 5
+    },
+    {
+        "chapter": "2 Kings 15",
+        "count": 5
+    },
+    {
+        "chapter": "Genesis 50",
+        "count": 5
+    },
+    {
+        "chapter": "2 Chronicles 33",
+        "count": 5
+    },
+    {
+        "chapter": "2 Kings 16",
+        "count": 5
+    },
+    {
+        "chapter": "Ezekiel 23",
+        "count": 5
+    },
+    {
+        "chapter": "Ezekiel 41",
+        "count": 5
+    },
+    {
+        "chapter": "Ezekiel 46",
+        "count": 5
+    },
+    {
+        "chapter": "Deuteronomy 29",
+        "count": 5
+    },
+    {
+        "chapter": "Leviticus 7",
+        "count": 5
+    },
+    {
+        "chapter": "Numbers 8",
+        "count": 5
+    },
+    {
+        "chapter": "Numbers 9",
+        "count": 5
+    },
+    {
+        "chapter": "Numbers 5",
+        "count": 5
+    },
+    {
+        "chapter": "Leviticus 20",
+        "count": 4
+    },
+    {
+        "chapter": "Exodus 31",
+        "count": 4
+    },
+    {
+        "chapter": "Judges 21",
+        "count": 4
+    },
+    {
+        "chapter": "Ruth 2",
+        "count": 4
+    },
+    {
+        "chapter": "2 Chronicles 24",
+        "count": 4
+    },
+    {
+        "chapter": "2 Kings 21",
+        "count": 4
+    },
+    {
+        "chapter": "2 Kings 10",
+        "count": 4
+    },
+    {
+        "chapter": "Deuteronomy 24",
+        "count": 4
+    },
+    {
+        "chapter": "Exodus 18",
+        "count": 4
+    },
+    {
+        "chapter": "Exodus 36",
+        "count": 4
+    },
+    {
+        "chapter": "Jeremiah 33",
+        "count": 4
+    },
+    {
+        "chapter": "Psalms 117",
+        "count": 4
+    },
+    {
+        "chapter": "Leviticus 10",
+        "count": 4
+    },
+    {
+        "chapter": "Leviticus 16",
+        "count": 4
+    },
+    {
+        "chapter": "2 Kings 25",
+        "count": 4
+    },
+    {
+        "chapter": "Leviticus 15",
+        "count": 4
+    },
+    {
+        "chapter": "Genesis 33",
+        "count": 4
+    },
+    {
+        "chapter": "Jeremiah 49",
+        "count": 4
+    },
+    {
+        "chapter": "Leviticus 4",
+        "count": 4
+    },
+    {
+        "chapter": "2 Kings 11",
+        "count": 4
+    },
+    {
+        "chapter": "1 Chronicles 22",
+        "count": 4
+    },
+    {
+        "chapter": "2 Samuel 13",
+        "count": 4
+    },
+    {
+        "chapter": "Leviticus 21",
+        "count": 4
+    },
+    {
+        "chapter": "Jeremiah 35",
+        "count": 4
+    },
+    {
+        "chapter": "1 Kings 9",
+        "count": 4
+    },
+    {
+        "chapter": "Ezekiel 25",
+        "count": 4
+    },
+    {
+        "chapter": "Ezekiel 26",
+        "count": 4
+    },
+    {
+        "chapter": "Ezekiel 29",
+        "count": 4
+    },
+    {
+        "chapter": "Jeremiah 38",
+        "count": 4
+    },
+    {
+        "chapter": "Joshua 21",
+        "count": 4
+    },
+    {
+        "chapter": "Numbers 10",
+        "count": 4
+    },
+    {
+        "chapter": "Esther 7",
+        "count": 4
+    },
+    {
+        "chapter": "1 Chronicles 2",
+        "count": 4
+    },
+    {
+        "chapter": "Deuteronomy 14",
+        "count": 3
+    },
+    {
+        "chapter": "Deuteronomy 15",
+        "count": 3
+    },
+    {
+        "chapter": "Jeremiah 37",
+        "count": 3
+    },
+    {
+        "chapter": "Numbers 35",
+        "count": 3
+    },
+    {
+        "chapter": "2 Samuel 2",
+        "count": 3
+    },
+    {
+        "chapter": "Deuteronomy 31",
+        "count": 3
+    },
+    {
+        "chapter": "Deuteronomy 7",
+        "count": 3
+    },
+    {
+        "chapter": "Jeremiah 36",
+        "count": 3
+    },
+    {
+        "chapter": "Leviticus 12",
+        "count": 3
+    },
+    {
+        "chapter": "Leviticus 5",
+        "count": 3
+    },
+    {
+        "chapter": "Psalms 108",
+        "count": 3
+    },
+    {
+        "chapter": "Acts 25",
+        "count": 3
+    },
+    {
+        "chapter": "Leviticus 22",
+        "count": 3
+    },
+    {
+        "chapter": "Numbers 13",
+        "count": 3
+    },
+    {
+        "chapter": "2 Chronicles 15",
+        "count": 3
+    },
+    {
+        "chapter": "Genesis 34",
+        "count": 3
+    },
+    {
+        "chapter": "Jeremiah 46",
+        "count": 3
+    },
+    {
+        "chapter": "2 Kings 9",
+        "count": 3
+    },
+    {
+        "chapter": "2 Chronicles 1",
+        "count": 3
+    },
+    {
+        "chapter": "2 Samuel 20",
+        "count": 3
+    },
+    {
+        "chapter": "Leviticus 3",
+        "count": 3
+    },
+    {
+        "chapter": "Deuteronomy 11",
+        "count": 3
+    },
+    {
+        "chapter": "Ezekiel 22",
+        "count": 3
+    },
+    {
+        "chapter": "Ezekiel 42",
+        "count": 3
+    },
+    {
+        "chapter": "Leviticus 17",
+        "count": 3
+    },
+    {
+        "chapter": "Joshua 22",
+        "count": 3
+    },
+    {
+        "chapter": "Leviticus 13",
+        "count": 3
+    },
+    {
+        "chapter": "Numbers 26",
+        "count": 3
+    },
+    {
+        "chapter": "1 Chronicles 4",
+        "count": 3
+    },
+    {
+        "chapter": "Judges 8",
+        "count": 3
+    },
+    {
+        "chapter": "Ruth 3",
+        "count": 3
+    },
+    {
+        "chapter": "Joshua 20",
+        "count": 2
+    },
+    {
+        "chapter": "Numbers 1",
+        "count": 2
+    },
+    {
+        "chapter": "Numbers 23",
+        "count": 2
+    },
+    {
+        "chapter": "Numbers 28",
+        "count": 2
+    },
+    {
+        "chapter": "1 Chronicles 12",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 19",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 21",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 25",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 30",
+        "count": 2
+    },
+    {
+        "chapter": "2 Samuel 19",
+        "count": 2
+    },
+    {
+        "chapter": "Leviticus 23",
+        "count": 2
+    },
+    {
+        "chapter": "Leviticus 9",
+        "count": 2
+    },
+    {
+        "chapter": "Deuteronomy 20",
+        "count": 2
+    },
+    {
+        "chapter": "Deuteronomy 26",
+        "count": 2
+    },
+    {
+        "chapter": "Leviticus 8",
+        "count": 2
+    },
+    {
+        "chapter": "Jeremiah 43",
+        "count": 2
+    },
+    {
+        "chapter": "Joshua 12",
+        "count": 2
+    },
+    {
+        "chapter": "Joshua 23",
+        "count": 2
+    },
+    {
+        "chapter": "Numbers 27",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 22",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 34",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 35",
+        "count": 2
+    },
+    {
+        "chapter": "Ezekiel 19",
+        "count": 2
+    },
+    {
+        "chapter": "Ezekiel 24",
+        "count": 2
+    },
+    {
+        "chapter": "Ezekiel 30",
+        "count": 2
+    },
+    {
+        "chapter": "Ezekiel 32",
+        "count": 2
+    },
+    {
+        "chapter": "Ezekiel 39",
+        "count": 2
+    },
+    {
+        "chapter": "Jeremiah 39",
+        "count": 2
+    },
+    {
+        "chapter": "Jeremiah 40",
+        "count": 2
+    },
+    {
+        "chapter": "Jeremiah 52",
+        "count": 2
+    },
+    {
+        "chapter": "2 Samuel 14",
+        "count": 2
+    },
+    {
+        "chapter": "Numbers 32",
+        "count": 2
+    },
+    {
+        "chapter": "Numbers 7",
+        "count": 2
+    },
+    {
+        "chapter": "Joshua 16",
+        "count": 2
+    },
+    {
+        "chapter": "Esther 10",
+        "count": 2
+    },
+    {
+        "chapter": "1 Chronicles 13",
+        "count": 2
+    },
+    {
+        "chapter": "1 Chronicles 14",
+        "count": 2
+    },
+    {
+        "chapter": "1 Chronicles 26",
+        "count": 2
+    },
+    {
+        "chapter": "1 Chronicles 3",
+        "count": 2
+    },
+    {
+        "chapter": "1 Chronicles 8",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 13",
+        "count": 2
+    },
+    {
+        "chapter": "Judges 10",
+        "count": 2
+    },
+    {
+        "chapter": "Jeremiah 45",
+        "count": 2
+    },
+    {
+        "chapter": "Jeremiah 47",
+        "count": 2
+    },
+    {
+        "chapter": "2 Chronicles 14",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 24",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 29",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 2",
+        "count": 1
+    },
+    {
+        "chapter": "Exodus 27",
+        "count": 1
+    },
+    {
+        "chapter": "Exodus 39",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 25",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 7",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 17",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 36",
+        "count": 1
+    },
+    {
+        "chapter": "Exodus 35",
+        "count": 1
+    },
+    {
+        "chapter": "Exodus 37",
+        "count": 1
+    },
+    {
+        "chapter": "Exodus 38",
+        "count": 1
+    },
+    {
+        "chapter": "Leviticus 27",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 17",
+        "count": 1
+    },
+    {
+        "chapter": "2 Samuel 4",
+        "count": 1
+    },
+    {
+        "chapter": "Ezekiel 15",
+        "count": 1
+    },
+    {
+        "chapter": "Ezekiel 31",
+        "count": 1
+    },
+    {
+        "chapter": "Ezekiel 35",
+        "count": 1
+    },
+    {
+        "chapter": "Ezekiel 38",
+        "count": 1
+    },
+    {
+        "chapter": "Jeremiah 34",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 32",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 18",
+        "count": 1
+    },
+    {
+        "chapter": "Joshua 19",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 29",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 2",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 3",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 6",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 23",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 30",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 15",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 19",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 20",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 5",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 7",
+        "count": 1
+    },
+    {
+        "chapter": "1 Chronicles 9",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 16",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 23",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 28",
+        "count": 1
+    },
+    {
+        "chapter": "2 Chronicles 36",
+        "count": 1
+    },
+    {
+        "chapter": "Deuteronomy 2",
+        "count": 1
+    },
+    {
+        "chapter": "Judges 17",
+        "count": 1
+    },
+    {
+        "chapter": "Judges 18",
+        "count": 1
+    },
+    {
+        "chapter": "Exodus 40",
+        "count": 1
+    },
+    {
+        "chapter": "Jeremiah 42",
+        "count": 1
+    },
+    {
+        "chapter": "Numbers 4",
+        "count": 1
+    }
+]
