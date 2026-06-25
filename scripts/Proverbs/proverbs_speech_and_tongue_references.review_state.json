@@ -1,0 +1,1606 @@
+{
+  "accepted": [
+    "Proverbs 9:7-9",
+    "Proverbs 10:8",
+    "Proverbs 10:10",
+    "Proverbs 10:11",
+    "Proverbs 10:13",
+    "Proverbs 10:14",
+    "Proverbs 10:17",
+    "Proverbs 10:18",
+    "Proverbs 10:19",
+    "Proverbs 10:20",
+    "Proverbs 10:21",
+    "Proverbs 10:31",
+    "Proverbs 10:32",
+    "Proverbs 11:9",
+    "Proverbs 11:12",
+    "Proverbs 11:14",
+    "Proverbs 12:1",
+    "Proverbs 12:6",
+    "Proverbs 12:16",
+    "Proverbs 12:17",
+    "Proverbs 12:18",
+    "Proverbs 12:19",
+    "Proverbs 12:22",
+    "Proverbs 12:23",
+    "Proverbs 13:2",
+    "Proverbs 13:3",
+    "Proverbs 13:10",
+    "Proverbs 14:3",
+    "Proverbs 14:5",
+    "Proverbs 14:6",
+    "Proverbs 14:8",
+    "Proverbs 14:9",
+    "Proverbs 14:23",
+    "Proverbs 14:25",
+    "Proverbs 15:1",
+    "Proverbs 15:2",
+    "Proverbs 15:4",
+    "Proverbs 15:5",
+    "Proverbs 15:7",
+    "Proverbs 15:10",
+    "Proverbs 15:12",
+    "Proverbs 15:14",
+    "Proverbs 15:18",
+    "Proverbs 15:22",
+    "Proverbs 15:23",
+    "Proverbs 15:28",
+    "Proverbs 15:29",
+    "Proverbs 15:30",
+    "Proverbs 15:31",
+    "Proverbs 15:32",
+    "Proverbs 16:1",
+    "Proverbs 16:10",
+    "Proverbs 16:13",
+    "Proverbs 16:14",
+    "Proverbs 16:18",
+    "Proverbs 16:20",
+    "Proverbs 16:21",
+    "Proverbs 16:24",
+    "Proverbs 16:26",
+    "Proverbs 16:27",
+    "Proverbs 16:28",
+    "Proverbs 17:4",
+    "Proverbs 17:5",
+    "Proverbs 17:7",
+    "Proverbs 17:9",
+    "Proverbs 17:10",
+    "Proverbs 17:15",
+    "Proverbs 17:17",
+    "Proverbs 17:20",
+    "Proverbs 17:27",
+    "Proverbs 17:28",
+    "Proverbs 18:2",
+    "Proverbs 18:4",
+    "Proverbs 18:6",
+    "Proverbs 18:7",
+    "Proverbs 18:8",
+    "Proverbs 18:13",
+    "Proverbs 18:17",
+    "Proverbs 18:18",
+    "Proverbs 18:20",
+    "Proverbs 19:1",
+    "Proverbs 19:5",
+    "Proverbs 19:9",
+    "Proverbs 19:20",
+    "Proverbs 19:25",
+    "Proverbs 19:28",
+    "Proverbs 20:5",
+    "Proverbs 20:14",
+    "Proverbs 20:15",
+    "Proverbs 20:18",
+    "Proverbs 20:19",
+    "Proverbs 21:6",
+    "Proverbs 21:23",
+    "Proverbs 21:28",
+    "Proverbs 22:10",
+    "Proverbs 22:11",
+    "Proverbs 22:12",
+    "Proverbs 22:14",
+    "Proverbs 23:9",
+    "Proverbs 23:12",
+    "Proverbs 23:15-16",
+    "Proverbs 24:1-2",
+    "Proverbs 24:7",
+    "Proverbs 24:24-25",
+    "Proverbs 24:28-29",
+    "Proverbs 25:8",
+    "Proverbs 25:9-10",
+    "Proverbs 25:11-12",
+    "Proverbs 25:13-14",
+    "Proverbs 25:15",
+    "Proverbs 25:18-20",
+    "Proverbs 25:23",
+    "Proverbs 26:2",
+    "Proverbs 26:4-5",
+    "Proverbs 26:6",
+    "Proverbs 26:7",
+    "Proverbs 26:9",
+    "Proverbs 26:13"
+  ],
+  "rejected": [
+    "Proverbs 10:1",
+    "Proverbs 10:2",
+    "Proverbs 10:4",
+    "Proverbs 10:5",
+    "Proverbs 10:6",
+    "Proverbs 10:9",
+    "Proverbs 10:12",
+    "Proverbs 10:15",
+    "Proverbs 10:16",
+    "Proverbs 10:22",
+    "Proverbs 10:23",
+    "Proverbs 10:24",
+    "Proverbs 10:25",
+    "Proverbs 10:26",
+    "Proverbs 10:27",
+    "Proverbs 10:28",
+    "Proverbs 10:30",
+    "Proverbs 11:2",
+    "Proverbs 11:4",
+    "Proverbs 11:5",
+    "Proverbs 11:7",
+    "Proverbs 11:8",
+    "Proverbs 11:10",
+    "Proverbs 12:2",
+    "Proverbs 12:7",
+    "Proverbs 12:9",
+    "Proverbs 12:10",
+    "Proverbs 12:11",
+    "Proverbs 12:12",
+    "Proverbs 12:13",
+    "Proverbs 12:14",
+    "Proverbs 12:20",
+    "Proverbs 12:21",
+    "Proverbs 13:4",
+    "Proverbs 13:5",
+    "Proverbs 14:1",
+    "Proverbs 14:2",
+    "Proverbs 14:10",
+    "Proverbs 14:11",
+    "Proverbs 14:16",
+    "Proverbs 14:17",
+    "Proverbs 14:19",
+    "Proverbs 14:21",
+    "Proverbs 15:3",
+    "Proverbs 15:6",
+    "Proverbs 15:11",
+    "Proverbs 15:16",
+    "Proverbs 15:21",
+    "Proverbs 15:24",
+    "Proverbs 15:25",
+    "Proverbs 15:26",
+    "Proverbs 15:27",
+    "Proverbs 16:5",
+    "Proverbs 16:8",
+    "Proverbs 16:9",
+    "Proverbs 16:12",
+    "Proverbs 16:17",
+    "Proverbs 16:19",
+    "Proverbs 16:22",
+    "Proverbs 17:3",
+    "Proverbs 17:6",
+    "Proverbs 17:8",
+    "Proverbs 17:16",
+    "Proverbs 17:19",
+    "Proverbs 17:22",
+    "Proverbs 17:24",
+    "Proverbs 17:25",
+    "Proverbs 17:26",
+    "Proverbs 18:1",
+    "Proverbs 18:3",
+    "Proverbs 18:9",
+    "Proverbs 18:10",
+    "Proverbs 18:11",
+    "Proverbs 18:12",
+    "Proverbs 18:14",
+    "Proverbs 18:16",
+    "Proverbs 19:3",
+    "Proverbs 19:4",
+    "Proverbs 19:10",
+    "Proverbs 19:12",
+    "Proverbs 19:14",
+    "Proverbs 19:16",
+    "Proverbs 20:6",
+    "Proverbs 20:7",
+    "Proverbs 20:13",
+    "Proverbs 20:16",
+    "Proverbs 20:17",
+    "Proverbs 21:5",
+    "Proverbs 21:7",
+    "Proverbs 21:8",
+    "Proverbs 21:10",
+    "Proverbs 21:12",
+    "Proverbs 21:14",
+    "Proverbs 21:15",
+    "Proverbs 21:17",
+    "Proverbs 21:18",
+    "Proverbs 21:19",
+    "Proverbs 21:20",
+    "Proverbs 21:21",
+    "Proverbs 22:1",
+    "Proverbs 22:4",
+    "Proverbs 22:5",
+    "Proverbs 22:9",
+    "Proverbs 22:16",
+    "Proverbs 23:6-8",
+    "Proverbs 26:1",
+    "Proverbs 26:3",
+    "Proverbs 26:8",
+    "Proverbs 26:10",
+    "Proverbs 26:15"
+  ],
+  "reviewed_sources": [
+    "Proverbs 9:7-9",
+    "Proverbs 10:1",
+    "Proverbs 10:2",
+    "Proverbs 10:4",
+    "Proverbs 10:5",
+    "Proverbs 10:6",
+    "Proverbs 10:8",
+    "Proverbs 10:9",
+    "Proverbs 10:10",
+    "Proverbs 10:11",
+    "Proverbs 10:12",
+    "Proverbs 10:13",
+    "Proverbs 10:14",
+    "Proverbs 10:15",
+    "Proverbs 10:16",
+    "Proverbs 10:17",
+    "Proverbs 10:18",
+    "Proverbs 10:19",
+    "Proverbs 10:20",
+    "Proverbs 10:21",
+    "Proverbs 10:22",
+    "Proverbs 10:23",
+    "Proverbs 10:24",
+    "Proverbs 10:25",
+    "Proverbs 10:26",
+    "Proverbs 10:27",
+    "Proverbs 10:28",
+    "Proverbs 10:30",
+    "Proverbs 10:31",
+    "Proverbs 10:32",
+    "Proverbs 11:2",
+    "Proverbs 11:4",
+    "Proverbs 11:5",
+    "Proverbs 11:7",
+    "Proverbs 11:8",
+    "Proverbs 11:9",
+    "Proverbs 11:10",
+    "Proverbs 11:12",
+    "Proverbs 11:14",
+    "Proverbs 12:1",
+    "Proverbs 12:2",
+    "Proverbs 12:6",
+    "Proverbs 12:7",
+    "Proverbs 12:9",
+    "Proverbs 12:10",
+    "Proverbs 12:11",
+    "Proverbs 12:12",
+    "Proverbs 12:13",
+    "Proverbs 12:14",
+    "Proverbs 12:16",
+    "Proverbs 12:17",
+    "Proverbs 12:18",
+    "Proverbs 12:19",
+    "Proverbs 12:20",
+    "Proverbs 12:21",
+    "Proverbs 12:22",
+    "Proverbs 12:23",
+    "Proverbs 13:2",
+    "Proverbs 13:3",
+    "Proverbs 13:4",
+    "Proverbs 13:5",
+    "Proverbs 13:10",
+    "Proverbs 14:1",
+    "Proverbs 14:2",
+    "Proverbs 14:3",
+    "Proverbs 14:5",
+    "Proverbs 14:6",
+    "Proverbs 14:8",
+    "Proverbs 14:9",
+    "Proverbs 14:10",
+    "Proverbs 14:11",
+    "Proverbs 14:16",
+    "Proverbs 14:17",
+    "Proverbs 14:19",
+    "Proverbs 14:21",
+    "Proverbs 14:23",
+    "Proverbs 14:25",
+    "Proverbs 15:1",
+    "Proverbs 15:2",
+    "Proverbs 15:3",
+    "Proverbs 15:4",
+    "Proverbs 15:5",
+    "Proverbs 15:6",
+    "Proverbs 15:7",
+    "Proverbs 15:10",
+    "Proverbs 15:11",
+    "Proverbs 15:12",
+    "Proverbs 15:14",
+    "Proverbs 15:16",
+    "Proverbs 15:18",
+    "Proverbs 15:21",
+    "Proverbs 15:22",
+    "Proverbs 15:23",
+    "Proverbs 15:24",
+    "Proverbs 15:25",
+    "Proverbs 15:26",
+    "Proverbs 15:27",
+    "Proverbs 15:28",
+    "Proverbs 15:29",
+    "Proverbs 15:30",
+    "Proverbs 15:31",
+    "Proverbs 15:32",
+    "Proverbs 16:1",
+    "Proverbs 16:5",
+    "Proverbs 16:8",
+    "Proverbs 16:9",
+    "Proverbs 16:10",
+    "Proverbs 16:12",
+    "Proverbs 16:13",
+    "Proverbs 16:14",
+    "Proverbs 16:17",
+    "Proverbs 16:18",
+    "Proverbs 16:19",
+    "Proverbs 16:20",
+    "Proverbs 16:21",
+    "Proverbs 16:22",
+    "Proverbs 16:24",
+    "Proverbs 16:26",
+    "Proverbs 16:27",
+    "Proverbs 16:28",
+    "Proverbs 17:3",
+    "Proverbs 17:4",
+    "Proverbs 17:5",
+    "Proverbs 17:6",
+    "Proverbs 17:7",
+    "Proverbs 17:8",
+    "Proverbs 17:9",
+    "Proverbs 17:10",
+    "Proverbs 17:15",
+    "Proverbs 17:16",
+    "Proverbs 17:17",
+    "Proverbs 17:19",
+    "Proverbs 17:20",
+    "Proverbs 17:22",
+    "Proverbs 17:24",
+    "Proverbs 17:25",
+    "Proverbs 17:26",
+    "Proverbs 17:27",
+    "Proverbs 17:28",
+    "Proverbs 18:1",
+    "Proverbs 18:2",
+    "Proverbs 18:3",
+    "Proverbs 18:4",
+    "Proverbs 18:6",
+    "Proverbs 18:7",
+    "Proverbs 18:8",
+    "Proverbs 18:9",
+    "Proverbs 18:10",
+    "Proverbs 18:11",
+    "Proverbs 18:12",
+    "Proverbs 18:13",
+    "Proverbs 18:14",
+    "Proverbs 18:16",
+    "Proverbs 18:17",
+    "Proverbs 18:18",
+    "Proverbs 18:20",
+    "Proverbs 19:1",
+    "Proverbs 19:3",
+    "Proverbs 19:4",
+    "Proverbs 19:5",
+    "Proverbs 19:9",
+    "Proverbs 19:10",
+    "Proverbs 19:12",
+    "Proverbs 19:14",
+    "Proverbs 19:16",
+    "Proverbs 19:20",
+    "Proverbs 19:25",
+    "Proverbs 19:28",
+    "Proverbs 20:5",
+    "Proverbs 20:6",
+    "Proverbs 20:7",
+    "Proverbs 20:13",
+    "Proverbs 20:14",
+    "Proverbs 20:15",
+    "Proverbs 20:16",
+    "Proverbs 20:17",
+    "Proverbs 20:18",
+    "Proverbs 20:19",
+    "Proverbs 21:5",
+    "Proverbs 21:6",
+    "Proverbs 21:7",
+    "Proverbs 21:8",
+    "Proverbs 21:10",
+    "Proverbs 21:12",
+    "Proverbs 21:14",
+    "Proverbs 21:15",
+    "Proverbs 21:17",
+    "Proverbs 21:18",
+    "Proverbs 21:19",
+    "Proverbs 21:20",
+    "Proverbs 21:21",
+    "Proverbs 21:23",
+    "Proverbs 21:28",
+    "Proverbs 22:1",
+    "Proverbs 22:4",
+    "Proverbs 22:5",
+    "Proverbs 22:9",
+    "Proverbs 22:10",
+    "Proverbs 22:11",
+    "Proverbs 22:12",
+    "Proverbs 22:14",
+    "Proverbs 22:16",
+    "Proverbs 23:6-8",
+    "Proverbs 23:9",
+    "Proverbs 23:12",
+    "Proverbs 23:15-16",
+    "Proverbs 24:1-2",
+    "Proverbs 24:7",
+    "Proverbs 24:24-25",
+    "Proverbs 24:28-29",
+    "Proverbs 25:8",
+    "Proverbs 25:9-10",
+    "Proverbs 25:11-12",
+    "Proverbs 25:13-14",
+    "Proverbs 25:15",
+    "Proverbs 25:18-20",
+    "Proverbs 25:23",
+    "Proverbs 26:1",
+    "Proverbs 26:2",
+    "Proverbs 26:3",
+    "Proverbs 26:4-5",
+    "Proverbs 26:6",
+    "Proverbs 26:7",
+    "Proverbs 26:8",
+    "Proverbs 26:9",
+    "Proverbs 26:10",
+    "Proverbs 26:13",
+    "Proverbs 26:15"
+  ],
+  "history": [
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 9:7-9",
+      "final_reference": "Proverbs 9:7-9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:1",
+      "displayed_reference": "Proverbs 10:1"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:2",
+      "displayed_reference": "Proverbs 10:2"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:4",
+      "displayed_reference": "Proverbs 10:4"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:5",
+      "displayed_reference": "Proverbs 10:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:6",
+      "displayed_reference": "Proverbs 10:6"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:8",
+      "final_reference": "Proverbs 10:8"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:9",
+      "displayed_reference": "Proverbs 10:9"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:10",
+      "final_reference": "Proverbs 10:10"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:11",
+      "final_reference": "Proverbs 10:11"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:12",
+      "displayed_reference": "Proverbs 10:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:13",
+      "final_reference": "Proverbs 10:13"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:14",
+      "final_reference": "Proverbs 10:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:15",
+      "displayed_reference": "Proverbs 10:15"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:16",
+      "displayed_reference": "Proverbs 10:16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:17",
+      "final_reference": "Proverbs 10:17"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:18",
+      "final_reference": "Proverbs 10:18"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:19",
+      "final_reference": "Proverbs 10:19"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:20",
+      "final_reference": "Proverbs 10:20"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:21",
+      "final_reference": "Proverbs 10:21"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:22",
+      "displayed_reference": "Proverbs 10:22"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:23",
+      "displayed_reference": "Proverbs 10:23"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:24",
+      "displayed_reference": "Proverbs 10:24"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:25",
+      "displayed_reference": "Proverbs 10:25"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:26",
+      "displayed_reference": "Proverbs 10:26"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:27",
+      "displayed_reference": "Proverbs 10:27"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:28",
+      "displayed_reference": "Proverbs 10:28"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 10:30",
+      "displayed_reference": "Proverbs 10:30"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:31",
+      "final_reference": "Proverbs 10:31"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 10:32",
+      "final_reference": "Proverbs 10:32"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 11:2",
+      "displayed_reference": "Proverbs 11:2"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 11:4",
+      "displayed_reference": "Proverbs 11:4"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 11:5",
+      "displayed_reference": "Proverbs 11:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 11:7",
+      "displayed_reference": "Proverbs 11:7"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 11:8",
+      "displayed_reference": "Proverbs 11:8"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 11:9",
+      "final_reference": "Proverbs 11:9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 11:10",
+      "displayed_reference": "Proverbs 11:10"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 11:12",
+      "final_reference": "Proverbs 11:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 11:14",
+      "final_reference": "Proverbs 11:14"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:1",
+      "final_reference": "Proverbs 12:1"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:2",
+      "displayed_reference": "Proverbs 12:2"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:6",
+      "final_reference": "Proverbs 12:6"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:7",
+      "displayed_reference": "Proverbs 12:7"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:9",
+      "displayed_reference": "Proverbs 12:9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:10",
+      "displayed_reference": "Proverbs 12:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:11",
+      "displayed_reference": "Proverbs 12:11"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:12",
+      "displayed_reference": "Proverbs 12:12"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:13",
+      "displayed_reference": "Proverbs 12:13"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:14",
+      "displayed_reference": "Proverbs 12:14"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:16",
+      "final_reference": "Proverbs 12:16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:17",
+      "final_reference": "Proverbs 12:17"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:18",
+      "final_reference": "Proverbs 12:18"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:19",
+      "final_reference": "Proverbs 12:19"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:20",
+      "displayed_reference": "Proverbs 12:20"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 12:21",
+      "displayed_reference": "Proverbs 12:21"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:22",
+      "final_reference": "Proverbs 12:22"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 12:23",
+      "final_reference": "Proverbs 12:23"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 13:2",
+      "final_reference": "Proverbs 13:2"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 13:3",
+      "final_reference": "Proverbs 13:3"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 13:4",
+      "displayed_reference": "Proverbs 13:4"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 13:5",
+      "displayed_reference": "Proverbs 13:5"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 13:10",
+      "final_reference": "Proverbs 13:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:1",
+      "displayed_reference": "Proverbs 14:1"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:2",
+      "displayed_reference": "Proverbs 14:2"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:3",
+      "final_reference": "Proverbs 14:3"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:5",
+      "final_reference": "Proverbs 14:5"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:6",
+      "final_reference": "Proverbs 14:6"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:8",
+      "final_reference": "Proverbs 14:8"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:9",
+      "final_reference": "Proverbs 14:9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:10",
+      "displayed_reference": "Proverbs 14:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:11",
+      "displayed_reference": "Proverbs 14:11"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:16",
+      "displayed_reference": "Proverbs 14:16"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:17",
+      "displayed_reference": "Proverbs 14:17"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:19",
+      "displayed_reference": "Proverbs 14:19"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 14:21",
+      "displayed_reference": "Proverbs 14:21"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:23",
+      "final_reference": "Proverbs 14:23"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 14:25",
+      "final_reference": "Proverbs 14:25"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:1",
+      "final_reference": "Proverbs 15:1"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:2",
+      "final_reference": "Proverbs 15:2"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:3",
+      "displayed_reference": "Proverbs 15:3"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:4",
+      "final_reference": "Proverbs 15:4"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:5",
+      "final_reference": "Proverbs 15:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:6",
+      "displayed_reference": "Proverbs 15:6"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:7",
+      "final_reference": "Proverbs 15:7"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:10",
+      "final_reference": "Proverbs 15:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:11",
+      "displayed_reference": "Proverbs 15:11"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:12",
+      "final_reference": "Proverbs 15:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:14",
+      "final_reference": "Proverbs 15:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:16",
+      "displayed_reference": "Proverbs 15:16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:18",
+      "final_reference": "Proverbs 15:18"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:21",
+      "displayed_reference": "Proverbs 15:21"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:22",
+      "final_reference": "Proverbs 15:22"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:23",
+      "final_reference": "Proverbs 15:23"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:24",
+      "displayed_reference": "Proverbs 15:24"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:25",
+      "displayed_reference": "Proverbs 15:25"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:26",
+      "displayed_reference": "Proverbs 15:26"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 15:27",
+      "displayed_reference": "Proverbs 15:27"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:28",
+      "final_reference": "Proverbs 15:28"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:29",
+      "final_reference": "Proverbs 15:29"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:30",
+      "final_reference": "Proverbs 15:30"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:31",
+      "final_reference": "Proverbs 15:31"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 15:32",
+      "final_reference": "Proverbs 15:32"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:1",
+      "final_reference": "Proverbs 16:1"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:5",
+      "displayed_reference": "Proverbs 16:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:8",
+      "displayed_reference": "Proverbs 16:8"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:9",
+      "displayed_reference": "Proverbs 16:9"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:10",
+      "final_reference": "Proverbs 16:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:12",
+      "displayed_reference": "Proverbs 16:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:13",
+      "final_reference": "Proverbs 16:13"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:14",
+      "final_reference": "Proverbs 16:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:17",
+      "displayed_reference": "Proverbs 16:17"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:18",
+      "final_reference": "Proverbs 16:18"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:19",
+      "displayed_reference": "Proverbs 16:19"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:20",
+      "final_reference": "Proverbs 16:20"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:21",
+      "final_reference": "Proverbs 16:21"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 16:22",
+      "displayed_reference": "Proverbs 16:22"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:24",
+      "final_reference": "Proverbs 16:24"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:26",
+      "final_reference": "Proverbs 16:26"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:27",
+      "final_reference": "Proverbs 16:27"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 16:28",
+      "final_reference": "Proverbs 16:28"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:3",
+      "displayed_reference": "Proverbs 17:3"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:4",
+      "final_reference": "Proverbs 17:4"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:5",
+      "final_reference": "Proverbs 17:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:6",
+      "displayed_reference": "Proverbs 17:6"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:7",
+      "final_reference": "Proverbs 17:7"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:8",
+      "displayed_reference": "Proverbs 17:8"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:9",
+      "final_reference": "Proverbs 17:9"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:10",
+      "final_reference": "Proverbs 17:10"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:15",
+      "final_reference": "Proverbs 17:15"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:16",
+      "displayed_reference": "Proverbs 17:16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:17",
+      "final_reference": "Proverbs 17:17"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:19",
+      "displayed_reference": "Proverbs 17:19"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:20",
+      "final_reference": "Proverbs 17:20"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:22",
+      "displayed_reference": "Proverbs 17:22"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:24",
+      "displayed_reference": "Proverbs 17:24"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:25",
+      "displayed_reference": "Proverbs 17:25"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 17:26",
+      "displayed_reference": "Proverbs 17:26"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:27",
+      "final_reference": "Proverbs 17:27"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 17:28",
+      "final_reference": "Proverbs 17:28"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:1",
+      "displayed_reference": "Proverbs 18:1"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:2",
+      "final_reference": "Proverbs 18:2"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:3",
+      "displayed_reference": "Proverbs 18:3"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:4",
+      "final_reference": "Proverbs 18:4"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:6",
+      "final_reference": "Proverbs 18:6"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:7",
+      "final_reference": "Proverbs 18:7"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:8",
+      "final_reference": "Proverbs 18:8"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:9",
+      "displayed_reference": "Proverbs 18:9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:10",
+      "displayed_reference": "Proverbs 18:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:11",
+      "displayed_reference": "Proverbs 18:11"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:12",
+      "displayed_reference": "Proverbs 18:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:13",
+      "final_reference": "Proverbs 18:13"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:14",
+      "displayed_reference": "Proverbs 18:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 18:16",
+      "displayed_reference": "Proverbs 18:16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:17",
+      "final_reference": "Proverbs 18:17"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:18",
+      "final_reference": "Proverbs 18:18"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 18:20",
+      "final_reference": "Proverbs 18:20"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 19:1",
+      "final_reference": "Proverbs 19:1"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 19:3",
+      "displayed_reference": "Proverbs 19:3"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 19:4",
+      "displayed_reference": "Proverbs 19:4"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 19:5",
+      "final_reference": "Proverbs 19:5"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 19:9",
+      "final_reference": "Proverbs 19:9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 19:10",
+      "displayed_reference": "Proverbs 19:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 19:12",
+      "displayed_reference": "Proverbs 19:12"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 19:14",
+      "displayed_reference": "Proverbs 19:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 19:16",
+      "displayed_reference": "Proverbs 19:16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 19:20",
+      "final_reference": "Proverbs 19:20"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 19:25",
+      "final_reference": "Proverbs 19:25"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 19:28",
+      "final_reference": "Proverbs 19:28"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 20:5",
+      "final_reference": "Proverbs 20:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 20:6",
+      "displayed_reference": "Proverbs 20:6"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 20:7",
+      "displayed_reference": "Proverbs 20:7"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 20:13",
+      "displayed_reference": "Proverbs 20:13"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 20:14",
+      "final_reference": "Proverbs 20:14"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 20:15",
+      "final_reference": "Proverbs 20:15"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 20:16",
+      "displayed_reference": "Proverbs 20:16"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 20:17",
+      "displayed_reference": "Proverbs 20:17"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 20:18",
+      "final_reference": "Proverbs 20:18"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 20:19",
+      "final_reference": "Proverbs 20:19"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:5",
+      "displayed_reference": "Proverbs 21:5"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 21:6",
+      "final_reference": "Proverbs 21:6"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:7",
+      "displayed_reference": "Proverbs 21:7"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:8",
+      "displayed_reference": "Proverbs 21:8"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:10",
+      "displayed_reference": "Proverbs 21:10"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:12",
+      "displayed_reference": "Proverbs 21:12"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:14",
+      "displayed_reference": "Proverbs 21:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:15",
+      "displayed_reference": "Proverbs 21:15"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:17",
+      "displayed_reference": "Proverbs 21:17"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:18",
+      "displayed_reference": "Proverbs 21:18"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:19",
+      "displayed_reference": "Proverbs 21:19"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:20",
+      "displayed_reference": "Proverbs 21:20"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 21:21",
+      "displayed_reference": "Proverbs 21:21"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 21:23",
+      "final_reference": "Proverbs 21:23"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 21:28",
+      "final_reference": "Proverbs 21:28"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 22:1",
+      "displayed_reference": "Proverbs 22:1"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 22:4",
+      "displayed_reference": "Proverbs 22:4"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 22:5",
+      "displayed_reference": "Proverbs 22:5"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 22:9",
+      "displayed_reference": "Proverbs 22:9"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 22:10",
+      "final_reference": "Proverbs 22:10"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 22:11",
+      "final_reference": "Proverbs 22:11"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 22:12",
+      "final_reference": "Proverbs 22:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 22:14",
+      "final_reference": "Proverbs 22:14"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 22:16",
+      "displayed_reference": "Proverbs 22:16"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 23:6-8",
+      "displayed_reference": "Proverbs 23:6-8"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 23:9",
+      "final_reference": "Proverbs 23:9"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 23:12",
+      "final_reference": "Proverbs 23:12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 23:15-16",
+      "final_reference": "Proverbs 23:15-16"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 24:1-2",
+      "final_reference": "Proverbs 24:1-2"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 24:7",
+      "final_reference": "Proverbs 24:7"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 24:24-25",
+      "final_reference": "Proverbs 24:24-25"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 24:28-29",
+      "final_reference": "Proverbs 24:28-29"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:8",
+      "final_reference": "Proverbs 25:8"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:9-10",
+      "final_reference": "Proverbs 25:9-10"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:11-12",
+      "final_reference": "Proverbs 25:11-12"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:13-14",
+      "final_reference": "Proverbs 25:13-14"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:15",
+      "final_reference": "Proverbs 25:15"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:18-20",
+      "final_reference": "Proverbs 25:18-20"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 25:23",
+      "final_reference": "Proverbs 25:23"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 26:1",
+      "displayed_reference": "Proverbs 26:1"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 26:2",
+      "final_reference": "Proverbs 26:2"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 26:3",
+      "displayed_reference": "Proverbs 26:3"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 26:4-5",
+      "final_reference": "Proverbs 26:4-5"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 26:6",
+      "final_reference": "Proverbs 26:6"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 26:7",
+      "final_reference": "Proverbs 26:7"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 26:8",
+      "displayed_reference": "Proverbs 26:8"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 26:9",
+      "final_reference": "Proverbs 26:9"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 26:10",
+      "displayed_reference": "Proverbs 26:10"
+    },
+    {
+      "action": "accepted",
+      "source_reference": "Proverbs 26:13",
+      "final_reference": "Proverbs 26:13"
+    },
+    {
+      "action": "rejected",
+      "source_reference": "Proverbs 26:15",
+      "displayed_reference": "Proverbs 26:15"
+    }
+  ]
+}

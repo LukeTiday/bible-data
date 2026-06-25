@@ -4,7 +4,8 @@ from pathlib import Path
 from typing import Optional, List, Dict, Any
 
 
-WEB_JSON_PATH = Path(r"C:\git_repos\bible-data\WorldEnglishBible\web_plaintext.json")
+SCRIPT_DIR = Path(__file__).resolve().parent
+WEB_JSON_PATH = SCRIPT_DIR / "web_plaintext.json"
 
 
 BOOK_ALIASES = {

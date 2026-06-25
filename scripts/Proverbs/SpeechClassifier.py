@@ -1,6 +1,5 @@
 import json
 import re
-import subprocess
 import sys
 from pathlib import Path
 
@@ -8,8 +7,6 @@ from pathlib import Path
 # ============================================================
 # Config
 # ============================================================
-
-MODEL_NAME = "qwen3:14b"
 
 # Keep as None for full run.
 # Set to an int like 10 while testing.
@@ -21,8 +18,7 @@ REPO_ROOT = SCRIPT_DIR.parents[1]
 QUEUE_PATH = REPO_ROOT / "ReferenceDatasets" / "proverbsProverbs.json"
 
 OUTPUT_PATH = SCRIPT_DIR / "proverbs_speech_and_tongue_references.json"
-LOG_PATH = SCRIPT_DIR / "proverbs_speech_and_tongue_run_log.jsonl"
-UNCLEAR_PATH = SCRIPT_DIR / "proverbs_speech_and_tongue_unclear.json"
+LOG_PATH = SCRIPT_DIR / "proverbs_speech_and_tongue_keyword_log.jsonl"
 
 VERSEFETCH_DIR = REPO_ROOT / "WorldEnglishBible"
 sys.path.insert(0, str(VERSEFETCH_DIR))
@@ -30,16 +26,192 @@ sys.path.insert(0, str(VERSEFETCH_DIR))
 from VerseFetch import iter_verses  # noqa: E402
 
 
-ANSI_RE = re.compile(r"\x1b\[[0-9;?]*[A-Za-z]")
+# ============================================================
+# Speech / Tongue keyword config
+# ============================================================
+
+# These are intentionally direct text keywords.
+# The classifier matches actual words/phrases in the proverb text.
+#
+# Examples matched:
+# - mouth, lips, tongue
+# - words, answer, rebuke, counsel
+# - gossip, slander, whisperer, false witness
+# - lie, lying, truth, truthful
+# - silence, speak, speech
+#
+# This does NOT use semantic guessing.
+# If none of these appear in the text, the proverb is not included.
+
+SPEECH_KEYWORD_PATTERNS = [
+    # Direct speech organs
+    r"\bmouth\b",
+    r"\bmouths\b",
+    r"\blip\b",
+    r"\blips\b",
+    r"\btongue\b",
+    r"\btongues\b",
+
+    # Words / speaking
+    r"\bword\b",
+    r"\bwords\b",
+    r"\bspeech\b",
+    r"\bspeak\b",
+    r"\bspeaks\b",
+    r"\bspeaker\b",
+    r"\bspeaking\b",
+    r"\bsaid\b",
+    r"\bsay\b",
+    r"\bsays\b",
+    r"\bsaying\b",
+    r"\btalk\b",
+    r"\btalks\b",
+    r"\btalking\b",
+    r"\bvoice\b",
+    r"\bvoices\b",
+    r"\banswer\b",
+    r"\banswers\b",
+    r"\banswered\b",
+    r"\banswering\b",
+    r"\breply\b",
+    r"\breplies\b",
+    r"\breplied\b",
+
+    # Teaching / verbal instruction / counsel
+    r"\bteach\b",
+    r"\bteaches\b",
+    r"\bteacher\b",
+    r"\binstruct\b",
+    r"\binstructs\b",
+    r"\bcounsel\b",
+    r"\bcounsels\b",
+    r"\bcounselor\b",
+    r"\bcounsellor\b",
+    r"\badvice\b",
+    r"\badmonish\b",
+    r"\badmonishes\b",
+    r"\brebuke\b",
+    r"\brebukes\b",
+    r"\brebuked\b",
+    r"\breproof\b",
+    r"\bcorrect\b",
+    r"\bcorrection\b",
+
+    # Truth / lies / witness
+    r"\btruth\b",
+    r"\btrue\b",
+    r"\btruthful\b",
+    r"\bfalse\b",
+    r"\bfalsehood\b",
+    r"\blie\b",
+    r"\blies\b",
+    r"\bliar\b",
+    r"\bliars\b",
+    r"\blying\b",
+    r"\bdeceit\b",
+    r"\bdeceitful\b",
+    r"\bdeceive\b",
+    r"\bdeceives\b",
+    r"\bdeceiver\b",
+    r"\bwitness\b",
+    r"\bwitnesses\b",
+    r"\btestimony\b",
+
+    # Harmful speech
+    r"\bgossip\b",
+    r"\bgossips\b",
+    r"\bwhisper\b",
+    r"\bwhispers\b",
+    r"\bwhisperer\b",
+    r"\bslander\b",
+    r"\bslanders\b",
+    r"\bslanderer\b",
+    r"\btalebearer\b",
+    r"\bbackbite\b",
+    r"\bbackbiting\b",
+    r"\bflatter\b",
+    r"\bflatters\b",
+    r"\bflattery\b",
+    r"\bboast\b",
+    r"\bboasts\b",
+    r"\bboasting\b",
+    r"\bchatter\b",
+    r"\bchattering\b",
+    r"\bwitness\b",
+    r"\bsound\b",
+    r"\bdeceitful\b",
+    r"\bdeceit\b",
+    r"\blying\b",
+    r"\bvoice\b",
+    r"\bmock\b",
+    r"\bmocker\b",
+    r"\bmocking\b",
+    r"\bcurse\b",
+    r"\bcurses\b",
+    r"\bcursing\b",
+    r"\bloud\b",
+    r"\btruth\b",
+    r"\btruthful\b",
+    r"\baloud\b",
+    r"\bcry\b",
+    r"\bcries\b",
+    r"\bcried\b",
+    r"\bquarrel\b",
+    r"\bquarreling\b",
+    r"\bslander\b",
+    r"\bguide\b",
+    r"\bplea\b",
+    r"\bpleads\b",
+    r"\bpleas\b",
+    r"\brespond\b",
+    r"\briddles\b",
+    r"\bsecrets\b",
+    r"\bsecret\b",
+    r"\btestifies\b",
+    r"\btestify\b",
+    r"\btestimony\b",
+    r"\bteachers\b",
+    r"\bteaches\b",
+    r"\bteach\b",
+    r"\bzeal\b",
+    
+
+    # Silence / restraint
+    r"\bsilent\b",
+    r"\bsilence\b",
+    r"\bquiet\b",
+    r"\brestrain\b",
+    r"\brestrains\b",
+    r"\bholds his peace\b",
+    r"\bhold his peace\b",
+    r"\bkeeps his mouth\b",
+    r"\bguard his mouth\b",
+    r"\bguards his mouth\b",
+
+    # Common WEB phrasing in Proverbs
+    r"\bexcellent speech\b",
+    r"\blying lips\b",
+    r"\btruthful lips\b",
+    r"\bfalse witness\b",
+    r"\bfaithful witness\b",
+    r"\brash words\b",
+    r"\bharsh word\b",
+    r"\bgentle answer\b",
+    r"\bsoft answer\b",
+    r"\bpleasant words\b",
+    r"\bchoice morsels\b",
+]
+
+
+COMPILED_SPEECH_PATTERNS = [
+    re.compile(pattern, flags=re.IGNORECASE)
+    for pattern in SPEECH_KEYWORD_PATTERNS
+]
 
 
 # ============================================================
 # Basic file helpers
 # ============================================================
-
-def clean_ansi(text):
-    return ANSI_RE.sub("", text)
-
 
 def load_json_list(path):
     if not path.exists():
@@ -62,8 +234,15 @@ def save_json_list(path, items):
 
 
 def append_log(record):
+    LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+
     with open(LOG_PATH, "a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
+def reset_file(path):
+    if path.exists():
+        path.unlink()
 
 
 # ============================================================
@@ -85,8 +264,7 @@ def load_proverb_queue():
         if not reference:
             continue
 
-        # The queue currently has a few duplicate references.
-        # We dedupe so one proverb is only classified once.
+        # Dedupe duplicate references in the queue.
         if reference in seen:
             continue
 
@@ -123,263 +301,51 @@ def get_reference_text(reference):
 
 
 # ============================================================
-# Output state
+# Keyword classifier
 # ============================================================
 
-def load_completed_references():
+def normalize_text(text):
     """
-    Reads prior log entries so rerunning the script can skip completed YES/NO items.
-    UNCLEAR items are intentionally not skipped, so they can be retried.
-    """
-
-    completed = set()
-
-    if not LOG_PATH.exists():
-        return completed
-
-    with open(LOG_PATH, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-
-            if not line:
-                continue
-
-            try:
-                record = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-
-            reference = record.get("reference")
-            answer = record.get("answer")
-
-            if reference and answer in ["YES", "NO"]:
-                completed.add(reference)
-
-    return completed
-
-
-def load_yes_references_from_log():
-    refs = []
-
-    if not LOG_PATH.exists():
-        return refs
-
-    seen = set()
-
-    with open(LOG_PATH, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-
-            if not line:
-                continue
-
-            try:
-                record = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-
-            if record.get("answer") == "YES":
-                reference = record.get("reference")
-
-                if reference and reference not in seen:
-                    seen.add(reference)
-                    refs.append(reference)
-
-    return refs
-
-
-def add_matching_reference(reference):
-    refs = load_json_list(OUTPUT_PATH)
-
-    if reference not in refs:
-        refs.append(reference)
-
-    save_json_list(OUTPUT_PATH, refs)
-
-
-def add_unclear_record(record):
-    items = load_json_list(UNCLEAR_PATH)
-
-    existing_refs = {
-        item.get("reference")
-        for item in items
-        if isinstance(item, dict)
-    }
-
-    if record["reference"] not in existing_refs:
-        items.append(record)
-
-    save_json_list(UNCLEAR_PATH, items)
-
-
-def rebuild_output_from_log():
-    """
-    Keeps the final output JSON in sync with prior successful YES classifications.
-    Useful if the script is stopped and restarted.
+    Keeps text readable but normalizes punctuation enough for matching.
     """
 
-    refs = load_yes_references_from_log()
-    save_json_list(OUTPUT_PATH, refs)
-    return refs
+    text = text.replace("’", "'")
+    text = text.replace("“", '"').replace("”", '"')
+    text = text.replace("—", " ")
+    text = text.replace("–", " ")
+    return text
 
 
-# ============================================================
-# Model response parsing
-# ============================================================
-
-def extract_final_yes_no(response_text):
+def find_speech_keyword_matches(text):
     """
-    Preferred format:
-      FINAL: YES
-      FINAL: NO
+    Returns a sorted list of matched keyword pattern strings.
 
-    Fallback:
-      Use the last standalone YES or NO in the response.
+    This is deliberately simple:
+    if a speech keyword appears in the proverb text, it matches.
     """
 
-    cleaned = clean_ansi(response_text).strip()
-    upper = cleaned.upper()
+    normalized = normalize_text(text)
 
-    final_matches = re.findall(r"FINAL:\s*(YES|NO)\b", upper)
+    matches = []
 
-    if final_matches:
-        return final_matches[-1]
+    for raw_pattern, compiled_pattern in zip(
+        SPEECH_KEYWORD_PATTERNS,
+        COMPILED_SPEECH_PATTERNS
+    ):
+        if compiled_pattern.search(normalized):
+            cleaned_pattern = (
+                raw_pattern
+                .replace(r"\b", "")
+                .replace("\\", "")
+            )
+            matches.append(cleaned_pattern)
 
-    loose_matches = re.findall(r"\b(YES|NO)\b", upper)
-
-    if loose_matches:
-        return loose_matches[-1]
-
-    return None
-
-
-def build_prompt(reference, text):
-    return f"""
-/think briefly
-
-You are classifying individual proverbs from the book of Proverbs by theme.
-
-Theme:
-Speech and the Tongue
-
-Classify ONLY this exact proverb reference or proverb range.
-
-Question:
-Is this proverb mainly about speech, words, the mouth, lips, tongue, lying, truth-telling, gossip, slander, flattery, rebuke, answering, silence, quarrels caused by words, or the moral power of what people say?
-
-YES if the proverb is substantially about:
-- speech, words, sayings, answers, counsel, rebuke, teaching, or verbal instruction
-- the mouth, lips, tongue, lying lips, truthful lips, false witness, gossip, slander, flattery, whispering, boasting, or silence
-- speech causing life, death, healing, harm, conflict, peace, wisdom, or folly
-- verbal integrity, truthful testimony, deceitful testimony, or perverse speech
-
-NO if:
-- speech is not a main point
-- the proverb is mainly about money, work, laziness, family, kingship, poverty, sexuality, justice, violence, pride, or general wisdom without a speech focus
-- the proverb only has a word like "instruction" but the point is broader moral formation rather than speech itself
-
-For multi-verse ranges:
-- Answer YES if the range as a whole is clearly about Speech and the Tongue.
-- Answer YES if at least one verse in the range is strongly about speech and the range is intended as one proverb unit.
-- Answer NO if the speech connection is weak or incidental.
-
-Think briefly.
-Use no more than 2 short reasoning sentences.
-End with exactly one final line.
-
-Required format:
-Reasoning: one or two short sentences.
-FINAL: YES
-
-or
-
-Reasoning: one or two short sentences.
-FINAL: NO
-
-Examples:
-Proverbs 10:19 = FINAL: YES
-Proverbs 12:18 = FINAL: YES
-Proverbs 15:1 = FINAL: YES
-Proverbs 16:24 = FINAL: YES
-Proverbs 6:6-8 = FINAL: NO
-Proverbs 10:4 = FINAL: NO
-Proverbs 13:11 = FINAL: NO
-
-Proverb:
-{reference}
-
-Text:
-{text}
-""".strip()
+    return sorted(set(matches))
 
 
-def ask_ollama_quiet(reference, text):
-    """
-    Runs Ollama and captures the response quietly.
-    It does not print streaming text.
-    """
-
-    prompt = build_prompt(reference, text)
-
-    result = subprocess.run(
-        ["ollama", "run", MODEL_NAME, prompt],
-        capture_output=True,
-        text=True,
-        encoding="utf-8",
-        errors="replace",
-    )
-
-    if result.returncode != 0:
-        raise RuntimeError(result.stderr)
-
-    cleaned_response = clean_ansi(result.stdout)
-    final_answer = extract_final_yes_no(cleaned_response)
-
-    if final_answer not in ["YES", "NO"]:
-        final_answer = "UNCLEAR"
-
-    return final_answer, cleaned_response
-
-
-def print_short_reason(response):
-    """
-    Prints a small readable summary instead of the whole thinking trace.
-    """
-
-    cleaned = clean_ansi(response).strip()
-
-    reasoning_match = re.search(
-        r"Reasoning:\s*(.*?)(?:FINAL:\s*(?:YES|NO)|$)",
-        cleaned,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-
-    if reasoning_match:
-        reasoning = reasoning_match.group(1).strip()
-        reasoning = re.sub(r"\s+", " ", reasoning)
-
-        if reasoning:
-            print(f"Reasoning: {reasoning}")
-            return
-
-    # Fallback if the model ignored the format.
-    without_thinking_markers = cleaned.replace("Thinking...", "")
-    without_thinking_markers = without_thinking_markers.replace("...done thinking.", "")
-
-    without_final = re.sub(
-        r"FINAL:\s*(YES|NO)\b",
-        "",
-        without_thinking_markers,
-        flags=re.IGNORECASE,
-    ).strip()
-
-    without_final = re.sub(r"\s+", " ", without_final)
-
-    if len(without_final) > 220:
-        without_final = without_final[:220].rstrip() + "..."
-
-    if without_final:
-        print(f"Reasoning: {without_final}")
+def is_speech_and_tongue(text):
+    matches = find_speech_keyword_matches(text)
+    return len(matches) > 0, matches
 
 
 # ============================================================
@@ -392,38 +358,49 @@ def main():
     if TEST_LIMIT is not None:
         queue = queue[:TEST_LIMIT]
 
-    completed = load_completed_references()
-    existing_yes_refs = rebuild_output_from_log()
+    reset_file(OUTPUT_PATH)
+    reset_file(LOG_PATH)
 
     print(f"Loaded {len(queue)} proverb units.")
-    print(f"Using model: {MODEL_NAME}")
+    print("Classifier: keyword matching only")
     print(f"Queue path: {QUEUE_PATH}")
     print(f"Output path: {OUTPUT_PATH}")
     print(f"Log path: {LOG_PATH}")
-    print(f"Unclear path: {UNCLEAR_PATH}")
-    print(f"Already completed YES/NO: {len(completed)}")
-    print(f"Existing YES refs in output: {len(existing_yes_refs)}")
     print()
+
+    matching_refs = []
 
     yes_count = 0
     no_count = 0
-    unclear_count = 0
-    skipped_count = 0
     error_count = 0
 
     total = len(queue)
 
     for index, reference in enumerate(queue, start=1):
-        if reference in completed:
-            skipped_count += 1
-            print(f"[{index}/{total}] SKIP {reference}")
-            continue
-
         print(f"[{index}/{total}] Checking {reference}...")
 
         try:
             text = get_reference_text(reference)
-            final_answer, response = ask_ollama_quiet(reference, text)
+            matched, keyword_matches = is_speech_and_tongue(text)
+
+            record = {
+                "index": index,
+                "reference": reference,
+                "text": text,
+                "is_speech_and_tongue": matched,
+                "matched_keywords": keyword_matches,
+            }
+
+            append_log(record)
+
+            if matched:
+                matching_refs.append(reference)
+                yes_count += 1
+                print(f"Result: YES")
+                print(f"Matched keywords: {', '.join(keyword_matches)}")
+            else:
+                no_count += 1
+                print("Result: NO")
 
         except Exception as e:
             error_count += 1
@@ -432,65 +409,32 @@ def main():
                 "index": index,
                 "reference": reference,
                 "text": None,
-                "answer": "ERROR",
                 "is_speech_and_tongue": False,
-                "model": MODEL_NAME,
+                "matched_keywords": [],
                 "error": str(e),
             }
 
             append_log(record)
-            add_unclear_record(record)
 
-            print(f"Result: ERROR")
+            print("Result: ERROR")
             print(f"Error: {e}")
-            print("-" * 80)
-            continue
 
-        is_speech_and_tongue = final_answer == "YES"
-
-        record = {
-            "index": index,
-            "reference": reference,
-            "text": text,
-            "answer": final_answer,
-            "is_speech_and_tongue": is_speech_and_tongue,
-            "model": MODEL_NAME,
-            "response": response,
-        }
-
-        if is_speech_and_tongue:
-            add_matching_reference(reference)
-            yes_count += 1
-        elif final_answer == "NO":
-            no_count += 1
-        else:
-            unclear_count += 1
-            add_unclear_record(record)
-
-        append_log(record)
-
-        print(f"Result: {final_answer}")
-        print_short_reason(response)
         print(
             f"Totals this run: "
-            f"YES={yes_count}, NO={no_count}, "
-            f"UNCLEAR={unclear_count}, ERROR={error_count}, SKIPPED={skipped_count}"
+            f"YES={yes_count}, NO={no_count}, ERROR={error_count}"
         )
         print("-" * 80)
 
-    final_refs = load_json_list(OUTPUT_PATH)
+    save_json_list(OUTPUT_PATH, matching_refs)
 
     print()
     print("Done.")
     print(f"YES this run: {yes_count}")
     print(f"NO this run: {no_count}")
-    print(f"UNCLEAR this run: {unclear_count}")
     print(f"ERROR this run: {error_count}")
-    print(f"SKIPPED this run: {skipped_count}")
-    print(f"Total matching references in output: {len(final_refs)}")
+    print(f"Total matching references in output: {len(matching_refs)}")
     print(f"Output written to: {OUTPUT_PATH}")
     print(f"Log written to: {LOG_PATH}")
-    print(f"Unclear records written to: {UNCLEAR_PATH}")
 
 
 if __name__ == "__main__":
