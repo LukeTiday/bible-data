@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import Optional, List, Dict, Any
 
 
-WEB_JSON_PATH = Path(r"C:\GitRepos\bible_data\WorldEnglishBible\web_plaintext.json")
+WEB_JSON_PATH = Path(r"C:\git_repos\bible-data\WorldEnglishBible\web_plaintext.json")
 
 
 BOOK_ALIASES = {
