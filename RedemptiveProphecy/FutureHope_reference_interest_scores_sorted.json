@@ -1,0 +1,5947 @@
+[
+  {
+    "reference": "Ezekiel 37:1-14",
+    "average_reference_count_per_verse": 13.285714285714286,
+    "total_reference_count": 186,
+    "verse_count": 14,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 37_1",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_2",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_3",
+        "count": 13,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_4",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_5",
+        "count": 14,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_6",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_7",
+        "count": 15,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_8",
+        "count": 15,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_9",
+        "count": 15,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_10",
+        "count": 15,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_11",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_12",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_13",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_14",
+        "count": 15,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 1
+  },
+  {
+    "reference": "Isaiah 26:19",
+    "average_reference_count_per_verse": 13.0,
+    "total_reference_count": 13,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 26_19",
+        "count": 13,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 2
+  },
+  {
+    "reference": "Isaiah 11:1-10",
+    "average_reference_count_per_verse": 12.2,
+    "total_reference_count": 122,
+    "verse_count": 10,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 11_1",
+        "count": 23,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_2",
+        "count": 26,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_3",
+        "count": 27,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_4",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_5",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_6",
+        "count": 13,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_7",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_9",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 11_10",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 3
+  },
+  {
+    "reference": "Joel 2:28-32",
+    "average_reference_count_per_verse": 11.4,
+    "total_reference_count": 57,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Joel 2_28",
+        "count": 16,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_29",
+        "count": 16,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_30",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_31",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_32",
+        "count": 9,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 4
+  },
+  {
+    "reference": "Daniel 9:24-27",
+    "average_reference_count_per_verse": 11.0,
+    "total_reference_count": 44,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 9_24",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 9_25",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 9_26",
+        "count": 11,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 9_27",
+        "count": 11,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 5
+  },
+  {
+    "reference": "Daniel 7:9-14",
+    "average_reference_count_per_verse": 9.333333333333334,
+    "total_reference_count": 56,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 7_9",
+        "count": 15,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_10",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_11",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_12",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_13",
+        "count": 14,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_14",
+        "count": 11,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 6
+  },
+  {
+    "reference": "Jeremiah 31:31-34",
+    "average_reference_count_per_verse": 9.25,
+    "total_reference_count": 37,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_31",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_32",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_33",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_34",
+        "count": 12,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 7
+  },
+  {
+    "reference": "Hosea 13:14",
+    "average_reference_count_per_verse": 9.0,
+    "total_reference_count": 9,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 13_14",
+        "count": 9,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 8
+  },
+  {
+    "reference": "Isaiah 40:1-5",
+    "average_reference_count_per_verse": 8.8,
+    "total_reference_count": 44,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 40_1",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_2",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_3",
+        "count": 17,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_4",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_5",
+        "count": 10,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 9
+  },
+  {
+    "reference": "Ezekiel 11:16-20",
+    "average_reference_count_per_verse": 8.8,
+    "total_reference_count": 44,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 11_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 11_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 11_18",
+        "count": 14,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 11_19",
+        "count": 14,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 11_20",
+        "count": 14,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 10
+  },
+  {
+    "reference": "Isaiah 53:7-12",
+    "average_reference_count_per_verse": 8.666666666666666,
+    "total_reference_count": 52,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 53_7",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_8",
+        "count": 11,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_9",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_10",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_11",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_12",
+        "count": 11,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 11
+  },
+  {
+    "reference": "Isaiah 53:1-6",
+    "average_reference_count_per_verse": 8.666666666666666,
+    "total_reference_count": 52,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 53_1",
+        "count": 13,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_2",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_3",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_4",
+        "count": 13,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_5",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 53_6",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 12
+  },
+  {
+    "reference": "Isaiah 2:2-4",
+    "average_reference_count_per_verse": 8.333333333333334,
+    "total_reference_count": 25,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 2_2",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 2_3",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 2_4",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 13
+  },
+  {
+    "reference": "Daniel 12:1-4",
+    "average_reference_count_per_verse": 8.25,
+    "total_reference_count": 33,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 12_1",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_2",
+        "count": 12,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_3",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_4",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 14
+  },
+  {
+    "reference": "Jonah 4:10-11",
+    "average_reference_count_per_verse": 8.0,
+    "total_reference_count": 16,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jonah 4_10",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 4_11",
+        "count": 10,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 15
+  },
+  {
+    "reference": "Habakkuk 2:1-4",
+    "average_reference_count_per_verse": 7.5,
+    "total_reference_count": 30,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Habakkuk 2_1",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Habakkuk 2_2",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Habakkuk 2_3",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Habakkuk 2_4",
+        "count": 11,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 16
+  },
+  {
+    "reference": "Jeremiah 24:4-7",
+    "average_reference_count_per_verse": 7.0,
+    "total_reference_count": 28,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 24_4",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 24_5",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 24_6",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 24_7",
+        "count": 7,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 17
+  },
+  {
+    "reference": "Ezekiel 44:1-4",
+    "average_reference_count_per_verse": 7.0,
+    "total_reference_count": 28,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 44_1",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 44_2",
+        "count": 15,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 44_3",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 44_4",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 18
+  },
+  {
+    "reference": "Isaiah 9:1-7",
+    "average_reference_count_per_verse": 6.714285714285714,
+    "total_reference_count": 47,
+    "verse_count": 7,
+    "missing_count_verses": 1,
+    "verses": [
+      {
+        "verse": "Isaiah 9_1",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 9_2",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 9_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 9_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 9_5",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Isaiah 9_6",
+        "count": 28,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 9_7",
+        "count": 10,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 19
+  },
+  {
+    "reference": "Ezekiel 40:1-4",
+    "average_reference_count_per_verse": 6.5,
+    "total_reference_count": 26,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 40_1",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 40_2",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 40_3",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 40_4",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 20
+  },
+  {
+    "reference": "Habakkuk 3:13",
+    "average_reference_count_per_verse": 6.0,
+    "total_reference_count": 6,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Habakkuk 3_13",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 21
+  },
+  {
+    "reference": "Daniel 7:18",
+    "average_reference_count_per_verse": 6.0,
+    "total_reference_count": 6,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 7_18",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 22
+  },
+  {
+    "reference": "Daniel 7:25-27",
+    "average_reference_count_per_verse": 5.666666666666667,
+    "total_reference_count": 17,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 7_25",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_26",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 7_27",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 23
+  },
+  {
+    "reference": "Isaiah 61:10-11",
+    "average_reference_count_per_verse": 5.5,
+    "total_reference_count": 11,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 61_10",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_11",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 24
+  },
+  {
+    "reference": "Isaiah 42:1-9",
+    "average_reference_count_per_verse": 5.444444444444445,
+    "total_reference_count": 49,
+    "verse_count": 9,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 42_1",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_2",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_3",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_4",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_5",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_6",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_7",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_8",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 42_9",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 25
+  },
+  {
+    "reference": "Isaiah 40:6-11",
+    "average_reference_count_per_verse": 5.333333333333333,
+    "total_reference_count": 32,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 40_6",
+        "count": 14,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_7",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_9",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_10",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_11",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 26
+  },
+  {
+    "reference": "Isaiah 56:3-8",
+    "average_reference_count_per_verse": 5.0,
+    "total_reference_count": 30,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 56_3",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 56_4",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 56_5",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 56_6",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 56_7",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 56_8",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 27
+  },
+  {
+    "reference": "Micah 4:1-5",
+    "average_reference_count_per_verse": 5.0,
+    "total_reference_count": 25,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 4_1",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 4_2",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 4_3",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 4_4",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 4_5",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 28
+  },
+  {
+    "reference": "Isaiah 60:8-9",
+    "average_reference_count_per_verse": 5.0,
+    "total_reference_count": 10,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_8",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_9",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 29
+  },
+  {
+    "reference": "Zechariah 1:3",
+    "average_reference_count_per_verse": 5.0,
+    "total_reference_count": 5,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 1_3",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 30
+  },
+  {
+    "reference": "Micah 5:2-5",
+    "average_reference_count_per_verse": 4.75,
+    "total_reference_count": 19,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 5_2",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 5_3",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 5_4",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 5_5",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 31
+  },
+  {
+    "reference": "Isaiah 49:1-7",
+    "average_reference_count_per_verse": 4.714285714285714,
+    "total_reference_count": 33,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 49_1",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 49_2",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 49_3",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 49_4",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 49_5",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 49_6",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 49_7",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 32
+  },
+  {
+    "reference": "Malachi 4:1-6",
+    "average_reference_count_per_verse": 4.666666666666667,
+    "total_reference_count": 28,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Malachi 4_1",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 4_2",
+        "count": 11,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 4_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 4_4",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 4_5",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 4_6",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 33
+  },
+  {
+    "reference": "Isaiah 35:1-10",
+    "average_reference_count_per_verse": 4.6,
+    "total_reference_count": 46,
+    "verse_count": 10,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Isaiah 35_1",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_2",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_3",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_4",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_5",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_6",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_7",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 35_8",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Isaiah 35_9",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Isaiah 35_10",
+        "count": 10,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 34
+  },
+  {
+    "reference": "Isaiah 4:2-6",
+    "average_reference_count_per_verse": 4.6,
+    "total_reference_count": 23,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 4_2",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 4_3",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 4_4",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 4_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 4_6",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 35
+  },
+  {
+    "reference": "Malachi 3:1-4",
+    "average_reference_count_per_verse": 4.5,
+    "total_reference_count": 18,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Malachi 3_1",
+        "count": 13,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_2",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_4",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 36
+  },
+  {
+    "reference": "Isaiah 25:6-9",
+    "average_reference_count_per_verse": 4.5,
+    "total_reference_count": 18,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 25_6",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 25_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 25_8",
+        "count": 10,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 25_9",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 37
+  },
+  {
+    "reference": "Obadiah 1:17-21",
+    "average_reference_count_per_verse": 4.4,
+    "total_reference_count": 22,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Obadiah 1_17",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Obadiah 1_18",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Obadiah 1_19",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Obadiah 1_20",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Obadiah 1_21",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 38
+  },
+  {
+    "reference": "Daniel 12:9-13",
+    "average_reference_count_per_verse": 4.4,
+    "total_reference_count": 22,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 12_9",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_10",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_11",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_12",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 12_13",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 39
+  },
+  {
+    "reference": "Hosea 6:1-3",
+    "average_reference_count_per_verse": 4.333333333333333,
+    "total_reference_count": 13,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 6_1",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 6_2",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 6_3",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 40
+  },
+  {
+    "reference": "Isaiah 40:27-31",
+    "average_reference_count_per_verse": 4.2,
+    "total_reference_count": 21,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 40_27",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_28",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_29",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_30",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 40_31",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 41
+  },
+  {
+    "reference": "Isaiah 45:1-8",
+    "average_reference_count_per_verse": 4.125,
+    "total_reference_count": 33,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 45_1",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_2",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_3",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_5",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_6",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_7",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 45_8",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 42
+  },
+  {
+    "reference": "Hosea 2:14-23",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 40,
+    "verse_count": 10,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 2_14",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_15",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_16",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_17",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_18",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_19",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_20",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_21",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_22",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 2_23",
+        "count": 7,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 43
+  },
+  {
+    "reference": "Isaiah 65:17-25",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 36,
+    "verse_count": 9,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 65_17",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_18",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_19",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_20",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_22",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_23",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_24",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 65_25",
+        "count": 7,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 44
+  },
+  {
+    "reference": "Zechariah 9:9-13",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 20,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 9_9",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_10",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_11",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_13",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 45
+  },
+  {
+    "reference": "Jeremiah 31:3-6",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 16,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_3",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_4",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_5",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_6",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 46
+  },
+  {
+    "reference": "Isaiah 54:1-3",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 12,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 54_1",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_2",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_3",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 47
+  },
+  {
+    "reference": "Ezekiel 17:22-24",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 12,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 17_22",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 17_23",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 17_24",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 48
+  },
+  {
+    "reference": "Nahum 1:14-15",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 8,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Nahum 1_14",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Nahum 1_15",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 49
+  },
+  {
+    "reference": "Jeremiah 31:2",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 4,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_2",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 50
+  },
+  {
+    "reference": "Jeremiah 31:1",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 4,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_1",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 51
+  },
+  {
+    "reference": "Daniel 7:22",
+    "average_reference_count_per_verse": 4.0,
+    "total_reference_count": 4,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 7_22",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 52
+  },
+  {
+    "reference": "Isaiah 10:20-27",
+    "average_reference_count_per_verse": 3.875,
+    "total_reference_count": 31,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 10_20",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_21",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_22",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_23",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_24",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_26",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 10_27",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 53
+  },
+  {
+    "reference": "Isaiah 50:4-9",
+    "average_reference_count_per_verse": 3.8333333333333335,
+    "total_reference_count": 23,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 50_4",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 50_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 50_6",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 50_7",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 50_8",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 50_9",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 54
+  },
+  {
+    "reference": "Jonah 2:2-9",
+    "average_reference_count_per_verse": 3.75,
+    "total_reference_count": 30,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jonah 2_2",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_3",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_5",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_6",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_7",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jonah 2_9",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 55
+  },
+  {
+    "reference": "Jeremiah 32:36-42",
+    "average_reference_count_per_verse": 3.7142857142857144,
+    "total_reference_count": 26,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 32_36",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 32_37",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 32_38",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 32_39",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 32_40",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 32_41",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 32_42",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 56
+  },
+  {
+    "reference": "Isaiah 61:1-6",
+    "average_reference_count_per_verse": 3.6666666666666665,
+    "total_reference_count": 22,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 61_1",
+        "count": 14,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_2",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_4",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_6",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 57
+  },
+  {
+    "reference": "Zechariah 13:7-9",
+    "average_reference_count_per_verse": 3.6666666666666665,
+    "total_reference_count": 11,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 13_7",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 13_8",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 13_9",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 58
+  },
+  {
+    "reference": "Isaiah 60:1-3",
+    "average_reference_count_per_verse": 3.6666666666666665,
+    "total_reference_count": 11,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_1",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_3",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 59
+  },
+  {
+    "reference": "Isaiah 55:1-5",
+    "average_reference_count_per_verse": 3.6,
+    "total_reference_count": 18,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 55_1",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_2",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_3",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_5",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 60
+  },
+  {
+    "reference": "Amos 9:11-15",
+    "average_reference_count_per_verse": 3.6,
+    "total_reference_count": 18,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Amos 9_11",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Amos 9_12",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Amos 9_13",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Amos 9_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Amos 9_15",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 61
+  },
+  {
+    "reference": "Isaiah 43:16-21",
+    "average_reference_count_per_verse": 3.5,
+    "total_reference_count": 21,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 43_16",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_18",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_19",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_20",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_21",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 62
+  },
+  {
+    "reference": "Daniel 2:31-36",
+    "average_reference_count_per_verse": 3.5,
+    "total_reference_count": 21,
+    "verse_count": 6,
+    "missing_count_verses": 1,
+    "verses": [
+      {
+        "verse": "Daniel 2_31",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 2_32",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 2_33",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 2_34",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 2_35",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 2_36",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 63
+  },
+  {
+    "reference": "Isaiah 55:6-7",
+    "average_reference_count_per_verse": 3.5,
+    "total_reference_count": 7,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 55_6",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_7",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 64
+  },
+  {
+    "reference": "Hosea 3:4-5",
+    "average_reference_count_per_verse": 3.5,
+    "total_reference_count": 7,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 3_4",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 3_5",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 65
+  },
+  {
+    "reference": "Hosea 1:10-11",
+    "average_reference_count_per_verse": 3.5,
+    "total_reference_count": 7,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 1_10",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 1_11",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 66
+  },
+  {
+    "reference": "Ezekiel 34:11-16",
+    "average_reference_count_per_verse": 3.3333333333333335,
+    "total_reference_count": 20,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 34_11",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_12",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_13",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_14",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_15",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_16",
+        "count": 8,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 67
+  },
+  {
+    "reference": "Jeremiah 31:7-9",
+    "average_reference_count_per_verse": 3.3333333333333335,
+    "total_reference_count": 10,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_7",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_8",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_9",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 68
+  },
+  {
+    "reference": "Jeremiah 31:38-40",
+    "average_reference_count_per_verse": 3.3333333333333335,
+    "total_reference_count": 10,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_38",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_39",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_40",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 69
+  },
+  {
+    "reference": "Jeremiah 31:15-17",
+    "average_reference_count_per_verse": 3.3333333333333335,
+    "total_reference_count": 10,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_15",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_17",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 70
+  },
+  {
+    "reference": "Isaiah 62:6-9",
+    "average_reference_count_per_verse": 3.25,
+    "total_reference_count": 13,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 62_6",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_7",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_9",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 71
+  },
+  {
+    "reference": "Zechariah 3:1-10",
+    "average_reference_count_per_verse": 3.2,
+    "total_reference_count": 32,
+    "verse_count": 10,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 3_1",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_2",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_3",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_7",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_8",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_9",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 3_10",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 72
+  },
+  {
+    "reference": "Isaiah 60:18-22",
+    "average_reference_count_per_verse": 3.2,
+    "total_reference_count": 16,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_18",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_19",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_20",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_21",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_22",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 73
+  },
+  {
+    "reference": "Isaiah 54:4-8",
+    "average_reference_count_per_verse": 3.2,
+    "total_reference_count": 16,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 54_4",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_5",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_6",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_7",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_8",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 74
+  },
+  {
+    "reference": "Isaiah 54:11-15",
+    "average_reference_count_per_verse": 3.2,
+    "total_reference_count": 16,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 54_11",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_12",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_13",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_14",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_15",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 75
+  },
+  {
+    "reference": "Isaiah 43:1-7",
+    "average_reference_count_per_verse": 3.142857142857143,
+    "total_reference_count": 22,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 43_1",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_2",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_4",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_5",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 43_7",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 76
+  },
+  {
+    "reference": "Ezekiel 34:17-24",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 24,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 34_17",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_18",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_19",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_20",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_21",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_22",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_23",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_24",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 77
+  },
+  {
+    "reference": "Jeremiah 3:14-19",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 18,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 3_14",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 3_15",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 3_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 3_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 3_18",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 3_19",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 78
+  },
+  {
+    "reference": "Isaiah 55:8-13",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 18,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 55_8",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_9",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_11",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 55_13",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 79
+  },
+  {
+    "reference": "Zechariah 14:20-21",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 6,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 14_20",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_21",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 80
+  },
+  {
+    "reference": "Isaiah 54:16-17",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 6,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 54_16",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_17",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 81
+  },
+  {
+    "reference": "Daniel 2:44-45",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 6,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Daniel 2_44",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Daniel 2_45",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 82
+  },
+  {
+    "reference": "Zechariah 8:19",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 3,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 8_19",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 83
+  },
+  {
+    "reference": "Nahum 2:2",
+    "average_reference_count_per_verse": 3.0,
+    "total_reference_count": 3,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Nahum 2_2",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 84
+  },
+  {
+    "reference": "Jeremiah 16:14-16",
+    "average_reference_count_per_verse": 2.6666666666666665,
+    "total_reference_count": 8,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 16_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 16_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 16_16",
+        "count": 6,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 85
+  },
+  {
+    "reference": "Isaiah 62:10-12",
+    "average_reference_count_per_verse": 2.6666666666666665,
+    "total_reference_count": 8,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 62_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_11",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_12",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 86
+  },
+  {
+    "reference": "Ezekiel 36:22-32",
+    "average_reference_count_per_verse": 2.6363636363636362,
+    "total_reference_count": 29,
+    "verse_count": 11,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 36_22",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_23",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_24",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_25",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_26",
+        "count": 8,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_27",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_28",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_29",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_30",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_31",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_32",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 87
+  },
+  {
+    "reference": "Isaiah 62:1-5",
+    "average_reference_count_per_verse": 2.6,
+    "total_reference_count": 13,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 62_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_3",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_4",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 62_5",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 88
+  },
+  {
+    "reference": "Ezekiel 47:1-12",
+    "average_reference_count_per_verse": 2.5833333333333335,
+    "total_reference_count": 31,
+    "verse_count": 12,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 47_1",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_2",
+        "count": 6,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_3",
+        "count": 7,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 47_12",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 89
+  },
+  {
+    "reference": "Zephaniah 3:14-20",
+    "average_reference_count_per_verse": 2.5714285714285716,
+    "total_reference_count": 18,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zephaniah 3_14",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 3_15",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 3_16",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 3_17",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 3_18",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 3_19",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 3_20",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 90
+  },
+  {
+    "reference": "Haggai 2:3-9",
+    "average_reference_count_per_verse": 2.5714285714285716,
+    "total_reference_count": 18,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Haggai 2_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_4",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_5",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_6",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_7",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_8",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_9",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 91
+  },
+  {
+    "reference": "Jeremiah 31:27-30",
+    "average_reference_count_per_verse": 2.5,
+    "total_reference_count": 10,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_27",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_28",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_29",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_30",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 92
+  },
+  {
+    "reference": "Isaiah 66:22-23",
+    "average_reference_count_per_verse": 2.5,
+    "total_reference_count": 5,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 66_22",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 66_23",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 93
+  },
+  {
+    "reference": "Isaiah 44:24-28",
+    "average_reference_count_per_verse": 2.4,
+    "total_reference_count": 12,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 44_24",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 44_25",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 44_26",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 44_27",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 44_28",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 94
+  },
+  {
+    "reference": "Zechariah 14:1-9",
+    "average_reference_count_per_verse": 2.3333333333333335,
+    "total_reference_count": 21,
+    "verse_count": 9,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 14_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_2",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_4",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_5",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_6",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_7",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_9",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 95
+  },
+  {
+    "reference": "Micah 7:18-20",
+    "average_reference_count_per_verse": 2.3333333333333335,
+    "total_reference_count": 7,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 7_18",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_19",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_20",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 96
+  },
+  {
+    "reference": "Isaiah 60:15-17",
+    "average_reference_count_per_verse": 2.3333333333333335,
+    "total_reference_count": 7,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_15",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_16",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_17",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 97
+  },
+  {
+    "reference": "Zechariah 4:2-10",
+    "average_reference_count_per_verse": 2.2222222222222223,
+    "total_reference_count": 20,
+    "verse_count": 9,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 4_2",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_3",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_4",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_6",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_7",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_8",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 4_10",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 98
+  },
+  {
+    "reference": "Zechariah 12:7-14",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 16,
+    "verse_count": 8,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Zechariah 12_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_8",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_10",
+        "count": 9,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_11",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_13",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Zechariah 12_14",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 99
+  },
+  {
+    "reference": "Ezekiel 34:25-31",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 14,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 34_25",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_26",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_27",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_28",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_29",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_30",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 34_31",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 100
+  },
+  {
+    "reference": "Zechariah 9:14-17",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 8,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 9_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_16",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 9_17",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 101
+  },
+  {
+    "reference": "Hosea 11:8-11",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 8,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 11_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 11_9",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 11_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 11_11",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 102
+  },
+  {
+    "reference": "Nahum 1:11-13",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Nahum 1_11",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Nahum 1_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Nahum 1_13",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 103
+  },
+  {
+    "reference": "Micah 7:8-10",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 7_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_9",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_10",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 104
+  },
+  {
+    "reference": "Malachi 3:10-12",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Malachi 3_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_11",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_12",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 105
+  },
+  {
+    "reference": "Joel 2:18-20",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Joel 2_18",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_19",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_20",
+        "count": 4,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 106
+  },
+  {
+    "reference": "Jeremiah 31:18-20",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_18",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_19",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_20",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 107
+  },
+  {
+    "reference": "Isaiah 61:7-9",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 61_7",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 61_9",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 108
+  },
+  {
+    "reference": "Isaiah 60:10-12",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 6,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_11",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_12",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 109
+  },
+  {
+    "reference": "Zechariah 13:1-2",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 4,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 13_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 13_2",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 110
+  },
+  {
+    "reference": "Jeremiah 31:35-36",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 4,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_35",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_36",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 111
+  },
+  {
+    "reference": "Isaiah 60:13-14",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 4,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_13",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_14",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 112
+  },
+  {
+    "reference": "Isaiah 54:9-10",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 4,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 54_9",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 54_10",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 113
+  },
+  {
+    "reference": "Isaiah 14:1-2",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 4,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 14_1",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 14_2",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 114
+  },
+  {
+    "reference": "Ezekiel 48:35",
+    "average_reference_count_per_verse": 2.0,
+    "total_reference_count": 2,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 48_35",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 115
+  },
+  {
+    "reference": "Hosea 14:1-9",
+    "average_reference_count_per_verse": 1.8888888888888888,
+    "total_reference_count": 17,
+    "verse_count": 9,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Hosea 14_1",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_3",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_5",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Hosea 14_9",
+        "count": 5,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 116
+  },
+  {
+    "reference": "Zechariah 14:10-15",
+    "average_reference_count_per_verse": 1.8333333333333333,
+    "total_reference_count": 11,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 14_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_13",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_14",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_15",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 117
+  },
+  {
+    "reference": "Ezekiel 43:1-11",
+    "average_reference_count_per_verse": 1.8181818181818181,
+    "total_reference_count": 20,
+    "verse_count": 11,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 43_1",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_2",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_5",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_6",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_9",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 43_11",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 118
+  },
+  {
+    "reference": "Isaiah 66:10-14",
+    "average_reference_count_per_verse": 1.8,
+    "total_reference_count": 9,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 66_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 66_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 66_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 66_13",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 66_14",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 119
+  },
+  {
+    "reference": "Jeremiah 23:1-8",
+    "average_reference_count_per_verse": 1.75,
+    "total_reference_count": 14,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 23_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_5",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_6",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_7",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 23_8",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 120
+  },
+  {
+    "reference": "Zechariah 8:20-23",
+    "average_reference_count_per_verse": 1.75,
+    "total_reference_count": 7,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 8_20",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_22",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_23",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 121
+  },
+  {
+    "reference": "Zechariah 8:14-17",
+    "average_reference_count_per_verse": 1.75,
+    "total_reference_count": 7,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 8_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_16",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_17",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 122
+  },
+  {
+    "reference": "Isaiah 60:4-7",
+    "average_reference_count_per_verse": 1.75,
+    "total_reference_count": 7,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 60_4",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 60_7",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 123
+  },
+  {
+    "reference": "Zechariah 6:9-15",
+    "average_reference_count_per_verse": 1.7142857142857142,
+    "total_reference_count": 12,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 6_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 6_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 6_11",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 6_12",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 6_13",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 6_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 6_15",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 124
+  },
+  {
+    "reference": "Zechariah 12:1-6",
+    "average_reference_count_per_verse": 1.6666666666666667,
+    "total_reference_count": 10,
+    "verse_count": 6,
+    "missing_count_verses": 1,
+    "verses": [
+      {
+        "verse": "Zechariah 12_1",
+        "count": 5,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_2",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_3",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Zechariah 12_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 12_6",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 125
+  },
+  {
+    "reference": "Jeremiah 33:17-22",
+    "average_reference_count_per_verse": 1.6666666666666667,
+    "total_reference_count": 10,
+    "verse_count": 6,
+    "missing_count_verses": 1,
+    "verses": [
+      {
+        "verse": "Jeremiah 33_17",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_18",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_19",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_20",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_21",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_22",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 126
+  },
+  {
+    "reference": "Micah 7:11-13",
+    "average_reference_count_per_verse": 1.6666666666666667,
+    "total_reference_count": 5,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 7_11",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_13",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 127
+  },
+  {
+    "reference": "Micah 4:6-8",
+    "average_reference_count_per_verse": 1.6666666666666667,
+    "total_reference_count": 5,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 4_6",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 4_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 4_8",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 128
+  },
+  {
+    "reference": "Haggai 2:21-23",
+    "average_reference_count_per_verse": 1.6666666666666667,
+    "total_reference_count": 5,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Haggai 2_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_22",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 2_23",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 129
+  },
+  {
+    "reference": "Amos 5:4-6",
+    "average_reference_count_per_verse": 1.6666666666666667,
+    "total_reference_count": 5,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Amos 5_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Amos 5_5",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Amos 5_6",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 130
+  },
+  {
+    "reference": "Jeremiah 30:4-11",
+    "average_reference_count_per_verse": 1.625,
+    "total_reference_count": 13,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 30_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_9",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_11",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 131
+  },
+  {
+    "reference": "Zechariah 8:4-28",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 30,
+    "verse_count": 20,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 8_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_5",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_8",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_13",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_16",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_18",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_19",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_20",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_22",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_23",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 132
+  },
+  {
+    "reference": "Ezekiel 36:8-15",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 12,
+    "verse_count": 8,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 36_8",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_12",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_13",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_15",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 133
+  },
+  {
+    "reference": "Joel 3:16-21",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 9,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Joel 3_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 3_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 3_18",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 3_19",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 3_20",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 3_21",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 134
+  },
+  {
+    "reference": "Zechariah 2:6-9",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 6,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 2_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_8",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_9",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 135
+  },
+  {
+    "reference": "Zechariah 14:16-19",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 6,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 14_16",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_18",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 14_19",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 136
+  },
+  {
+    "reference": "Joel 2:21-24",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 6,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Joel 2_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_22",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_23",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_24",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 137
+  },
+  {
+    "reference": "Jeremiah 33:23-26",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 6,
+    "verse_count": 4,
+    "missing_count_verses": 1,
+    "verses": [
+      {
+        "verse": "Jeremiah 33_23",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_24",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_25",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_26",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 138
+  },
+  {
+    "reference": "Jeremiah 31:23-26",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 6,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_23",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_24",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_26",
+        "count": 3,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 139
+  },
+  {
+    "reference": "Micah 7:14-15",
+    "average_reference_count_per_verse": 1.5,
+    "total_reference_count": 3,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 7_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 7_15",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 140
+  },
+  {
+    "reference": "Jeremiah 30:18-24",
+    "average_reference_count_per_verse": 1.4285714285714286,
+    "total_reference_count": 10,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 30_18",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_19",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_20",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_22",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_23",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_24",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 141
+  },
+  {
+    "reference": "Zechariah 10:1-5",
+    "average_reference_count_per_verse": 1.4,
+    "total_reference_count": 7,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 10_1",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_3",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_5",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 142
+  },
+  {
+    "reference": "Ezekiel 16:59-63",
+    "average_reference_count_per_verse": 1.4,
+    "total_reference_count": 7,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 16_59",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 16_60",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 16_61",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 16_62",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 16_63",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 143
+  },
+  {
+    "reference": "Zechariah 1:12-17",
+    "average_reference_count_per_verse": 1.3333333333333333,
+    "total_reference_count": 8,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 1_12",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 1_13",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 1_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 1_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 1_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 1_17",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 144
+  },
+  {
+    "reference": "Malachi 3:16-18",
+    "average_reference_count_per_verse": 1.3333333333333333,
+    "total_reference_count": 4,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Malachi 3_16",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Malachi 3_18",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 145
+  },
+  {
+    "reference": "Haggai 1:12-14",
+    "average_reference_count_per_verse": 1.3333333333333333,
+    "total_reference_count": 4,
+    "verse_count": 3,
+    "missing_count_verses": 1,
+    "verses": [
+      {
+        "verse": "Haggai 1_12",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Haggai 1_13",
+        "count": 3,
+        "count_was_found": true
+      },
+      {
+        "verse": "Haggai 1_14",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 146
+  },
+  {
+    "reference": "Ezekiel 37:15-28",
+    "average_reference_count_per_verse": 1.2857142857142858,
+    "total_reference_count": 18,
+    "verse_count": 14,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 37_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_17",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_18",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_19",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_20",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_21",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_22",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_23",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_24",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_26",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_27",
+        "count": 4,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 37_28",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 147
+  },
+  {
+    "reference": "Zechariah 2:10-13",
+    "average_reference_count_per_verse": 1.25,
+    "total_reference_count": 5,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 2_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_13",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 148
+  },
+  {
+    "reference": "Zechariah 2:1-5",
+    "average_reference_count_per_verse": 1.2,
+    "total_reference_count": 6,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 2_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_4",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 2_5",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 149
+  },
+  {
+    "reference": "Jeremiah 31:10-14",
+    "average_reference_count_per_verse": 1.2,
+    "total_reference_count": 6,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_13",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_14",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 150
+  },
+  {
+    "reference": "Jeremiah 29:10-14",
+    "average_reference_count_per_verse": 1.2,
+    "total_reference_count": 6,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 29_10",
+        "count": 2,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 29_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 29_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 29_13",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 29_14",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 151
+  },
+  {
+    "reference": "Ezekiel 36:33-38",
+    "average_reference_count_per_verse": 1.1666666666666667,
+    "total_reference_count": 7,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 36_33",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_34",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_35",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_36",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_37",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 36_38",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 152
+  },
+  {
+    "reference": "Zechariah 10:6-12",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 7,
+    "verse_count": 7,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 10_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_8",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_9",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_10",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_11",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 10_12",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 153
+  },
+  {
+    "reference": "Jeremiah 30:12-17",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 6,
+    "verse_count": 6,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 30_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_13",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_17",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 154
+  },
+  {
+    "reference": "Isaiah 32:1-5",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 5,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Isaiah 32_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 32_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 32_3",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 32_4",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Isaiah 32_5",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 155
+  },
+  {
+    "reference": "Ezekiel 39:25-29",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 5,
+    "verse_count": 5,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 39_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 39_26",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 39_27",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 39_28",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 39_29",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 156
+  },
+  {
+    "reference": "Jeremiah 12:14-17",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 4,
+    "verse_count": 4,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 12_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 12_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 12_16",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 12_17",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 157
+  },
+  {
+    "reference": "Zephaniah 2:5-7",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 3,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zephaniah 2_5",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 2_6",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zephaniah 2_7",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 158
+  },
+  {
+    "reference": "Joel 2:25-27",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 3,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Joel 2_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_26",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Joel 2_27",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 159
+  },
+  {
+    "reference": "Jeremiah 33:14-16",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 3,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 33_14",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_16",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 160
+  },
+  {
+    "reference": "Jeremiah 30:1-3",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 3,
+    "verse_count": 3,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 30_1",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 30_3",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 161
+  },
+  {
+    "reference": "Zechariah 8:2-3",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 2,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zechariah 8_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Zechariah 8_3",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 162
+  },
+  {
+    "reference": "Micah 2:12-13",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 2,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Micah 2_12",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Micah 2_13",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 163
+  },
+  {
+    "reference": "Jeremiah 31:21-22",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 2,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 31_22",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 164
+  },
+  {
+    "reference": "Ezekiel 45:7-8",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 2,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 45_7",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 45_8",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 165
+  },
+  {
+    "reference": "Ezekiel 44:15-16",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 2,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 44_15",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 44_16",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 166
+  },
+  {
+    "reference": "Ezekiel 28:25-26",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 2,
+    "verse_count": 2,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Ezekiel 28_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Ezekiel 28_26",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 167
+  },
+  {
+    "reference": "Zephaniah 2:3",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 1,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Zephaniah 2_3",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 168
+  },
+  {
+    "reference": "Nahum 1:7",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 1,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Nahum 1_7",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 169
+  },
+  {
+    "reference": "Jeremiah 31:37",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 1,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Jeremiah 31_37",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 170
+  },
+  {
+    "reference": "Habakkuk 2:14",
+    "average_reference_count_per_verse": 1.0,
+    "total_reference_count": 1,
+    "verse_count": 1,
+    "missing_count_verses": 0,
+    "verses": [
+      {
+        "verse": "Habakkuk 2_14",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 171
+  },
+  {
+    "reference": "Lamentations 3:21-26",
+    "average_reference_count_per_verse": 0.6666666666666666,
+    "total_reference_count": 4,
+    "verse_count": 6,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Lamentations 3_21",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Lamentations 3_22",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Lamentations 3_23",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Lamentations 3_24",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Lamentations 3_25",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Lamentations 3_26",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 172
+  },
+  {
+    "reference": "Jeremiah 50:4-6",
+    "average_reference_count_per_verse": 0.6666666666666666,
+    "total_reference_count": 2,
+    "verse_count": 3,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Jeremiah 50_4",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 50_5",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 50_6",
+        "count": 2,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 173
+  },
+  {
+    "reference": "Lamentations 3:55-58",
+    "average_reference_count_per_verse": 0.25,
+    "total_reference_count": 1,
+    "verse_count": 4,
+    "missing_count_verses": 3,
+    "verses": [
+      {
+        "verse": "Lamentations 3_55",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Lamentations 3_56",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Lamentations 3_57",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Lamentations 3_58",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 174
+  },
+  {
+    "reference": "Jeremiah 50:17-20",
+    "average_reference_count_per_verse": 0.25,
+    "total_reference_count": 1,
+    "verse_count": 4,
+    "missing_count_verses": 3,
+    "verses": [
+      {
+        "verse": "Jeremiah 50_17",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 50_18",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 50_19",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 50_20",
+        "count": 1,
+        "count_was_found": true
+      }
+    ],
+    "interest_rank": 175
+  },
+  {
+    "reference": "Jeremiah 33:1-9",
+    "average_reference_count_per_verse": 0.1111111111111111,
+    "total_reference_count": 1,
+    "verse_count": 9,
+    "missing_count_verses": 8,
+    "verses": [
+      {
+        "verse": "Jeremiah 33_1",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_2",
+        "count": 1,
+        "count_was_found": true
+      },
+      {
+        "verse": "Jeremiah 33_3",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_4",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_5",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_6",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_7",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_8",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_9",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 176
+  },
+  {
+    "reference": "Jeremiah 50:33-34",
+    "average_reference_count_per_verse": 0.0,
+    "total_reference_count": 0,
+    "verse_count": 2,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Jeremiah 50_33",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 50_34",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 177
+  },
+  {
+    "reference": "Jeremiah 46:27-28",
+    "average_reference_count_per_verse": 0.0,
+    "total_reference_count": 0,
+    "verse_count": 2,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Jeremiah 46_27",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 46_28",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 178
+  },
+  {
+    "reference": "Jeremiah 33:12-13",
+    "average_reference_count_per_verse": 0.0,
+    "total_reference_count": 0,
+    "verse_count": 2,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Jeremiah 33_12",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_13",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 179
+  },
+  {
+    "reference": "Jeremiah 33:10-11",
+    "average_reference_count_per_verse": 0.0,
+    "total_reference_count": 0,
+    "verse_count": 2,
+    "missing_count_verses": 2,
+    "verses": [
+      {
+        "verse": "Jeremiah 33_10",
+        "count": 0,
+        "count_was_found": false
+      },
+      {
+        "verse": "Jeremiah 33_11",
+        "count": 0,
+        "count_was_found": false
+      }
+    ],
+    "interest_rank": 180
+  }
+]
