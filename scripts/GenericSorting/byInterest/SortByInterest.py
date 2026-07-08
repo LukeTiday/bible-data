@@ -14,7 +14,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 
 # Your ranked per-verse reference counts file.
 REFERENCE_COUNTS_PATH = Path(
-    r"C:\git_repos\bible-data\BibleVsRankedByReference\01_verses_counted_and_sorted.json"
+    r"C:\git_repos\bible_data\BibleVsRankedByReference\01_verses_counted_and_sorted.json"
 )
 
 # If a verse is not present in REFERENCE_COUNTS_PATH, treat it as 0 references.
